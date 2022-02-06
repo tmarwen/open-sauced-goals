@@ -1,0 +1,182 @@
+[
+  {
+    "full_name": "antlr/stringtemplate4",
+    "stargazers_count": 768,
+    "open_issues_count": 41,
+    "forks_count": 207
+  },
+  {
+    "full_name": "mikevoxcap/pluralsight-camel-intro",
+    "stargazers_count": 43,
+    "open_issues_count": 3,
+    "forks_count": 93
+  },
+  {
+    "full_name": "apache/camel-examples",
+    "stargazers_count": 225,
+    "open_issues_count": 0,
+    "forks_count": 231
+  },
+  {
+    "full_name": "apache/camel",
+    "stargazers_count": 4118,
+    "open_issues_count": 4,
+    "forks_count": 4457
+  },
+  {
+    "full_name": "deepjavalibrary/djl",
+    "stargazers_count": 2338,
+    "open_issues_count": 95,
+    "forks_count": 374
+  },
+  {
+    "full_name": "deepjavalibrary/djl-demo",
+    "stargazers_count": 172,
+    "open_issues_count": 2,
+    "forks_count": 74
+  },
+  {
+    "full_name": "syndesisio/syndesis",
+    "stargazers_count": 486,
+    "open_issues_count": 81,
+    "forks_count": 199
+  },
+  {
+    "full_name": "openjdk/jdk",
+    "stargazers_count": 12145,
+    "open_issues_count": 176,
+    "forks_count": 3185
+  },
+  {
+    "full_name": "inconshreveable/ngrok",
+    "stargazers_count": 21336,
+    "open_issues_count": 343,
+    "forks_count": 3942
+  },
+  {
+    "full_name": "marchof/java-almanac",
+    "stargazers_count": 834,
+    "open_issues_count": 2,
+    "forks_count": 45
+  },
+  {
+    "full_name": "dekorateio/dekorate",
+    "stargazers_count": 350,
+    "open_issues_count": 64,
+    "forks_count": 82
+  },
+  {
+    "full_name": "libuv/libuv",
+    "stargazers_count": 18862,
+    "open_issues_count": 168,
+    "forks_count": 3048
+  },
+  {
+    "full_name": "lirantal/nodejs-cli-apps-best-practices",
+    "stargazers_count": 2179,
+    "open_issues_count": 8,
+    "forks_count": 107
+  },
+  {
+    "full_name": "apache/logging-log4j2",
+    "stargazers_count": 2701,
+    "open_issues_count": 43,
+    "forks_count": 1325
+  },
+  {
+    "full_name": "ammbra/resilience",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "danilowoz/react-content-loader",
+    "stargazers_count": 11955,
+    "open_issues_count": 5,
+    "forks_count": 413
+  },
+  {
+    "full_name": "snicoll/spring-boot-configuration-binding",
+    "stargazers_count": 9,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "googleapis/nodejs-pubsub",
+    "stargazers_count": 405,
+    "open_issues_count": 53,
+    "forks_count": 206
+  },
+  {
+    "full_name": "pellse/assembler",
+    "stargazers_count": 97,
+    "open_issues_count": 5,
+    "forks_count": 12
+  },
+  {
+    "full_name": "lettuce-io/lettuce-core",
+    "stargazers_count": 4396,
+    "open_issues_count": 63,
+    "forks_count": 808
+  },
+  {
+    "full_name": "aalansehaiyang/technology-talk",
+    "stargazers_count": 12218,
+    "open_issues_count": 9,
+    "forks_count": 3517
+  },
+  {
+    "full_name": "asc-lab/micronaut-microservices-poc",
+    "stargazers_count": 436,
+    "open_issues_count": 6,
+    "forks_count": 150
+  },
+  {
+    "full_name": "hibernate/hibernate-reactive",
+    "stargazers_count": 281,
+    "open_issues_count": 51,
+    "forks_count": 45
+  },
+  {
+    "full_name": "kiegroup/kogito-runtimes",
+    "stargazers_count": 295,
+    "open_issues_count": 62,
+    "forks_count": 127
+  },
+  {
+    "full_name": "database-rider/database-rider",
+    "stargazers_count": 466,
+    "open_issues_count": 23,
+    "forks_count": 98
+  },
+  {
+    "full_name": "kettanaito/naming-cheatsheet",
+    "stargazers_count": 9663,
+    "open_issues_count": 23,
+    "forks_count": 477
+  },
+  {
+    "full_name": "alan2207/bulletproof-react",
+    "stargazers_count": 8536,
+    "open_issues_count": 6,
+    "forks_count": 570
+  },
+  {
+    "full_name": "bregman-arie/system-design-notebook",
+    "stargazers_count": 209,
+    "open_issues_count": 0,
+    "forks_count": 40
+  },
+  {
+    "full_name": "bregman-arie/devops-resources",
+    "stargazers_count": 4090,
+    "open_issues_count": 6,
+    "forks_count": 840
+  },
+  {
+    "full_name": "bregman-arie/devops-exercises",
+    "stargazers_count": 21132,
+    "open_issues_count": 16,
+    "forks_count": 4372
+  }
+]
