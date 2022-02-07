@@ -20,8 +20,8 @@
   {
     "full_name": "apache/camel",
     "stargazers_count": 4121,
-    "open_issues_count": 4,
-    "forks_count": 4456
+    "open_issues_count": 3,
+    "forks_count": 4455
   },
   {
     "full_name": "deepjavalibrary/djl",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "openjdk/jdk",
-    "stargazers_count": 12151,
-    "open_issues_count": 173,
+    "stargazers_count": 12152,
+    "open_issues_count": 174,
     "forks_count": 3187
   },
   {
     "full_name": "inconshreveable/ngrok",
     "stargazers_count": 21338,
     "open_issues_count": 343,
-    "forks_count": 3942
+    "forks_count": 3943
   },
   {
     "full_name": "marchof/java-almanac",
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "alan2207/bulletproof-react",
-    "stargazers_count": 8539,
+    "stargazers_count": 8540,
     "open_issues_count": 6,
     "forks_count": 572
   },
@@ -177,6 +177,6 @@
     "full_name": "bregman-arie/devops-exercises",
     "stargazers_count": 21148,
     "open_issues_count": 16,
-    "forks_count": 4381
+    "forks_count": 4382
   }
 ]
