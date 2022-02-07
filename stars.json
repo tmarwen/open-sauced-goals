@@ -13,21 +13,21 @@
   },
   {
     "full_name": "apache/camel-examples",
-    "stargazers_count": 225,
+    "stargazers_count": 226,
     "open_issues_count": 0,
-    "forks_count": 231
+    "forks_count": 232
   },
   {
     "full_name": "apache/camel",
-    "stargazers_count": 4118,
+    "stargazers_count": 4121,
     "open_issues_count": 4,
-    "forks_count": 4457
+    "forks_count": 4456
   },
   {
     "full_name": "deepjavalibrary/djl",
-    "stargazers_count": 2338,
+    "stargazers_count": 2339,
     "open_issues_count": 95,
-    "forks_count": 374
+    "forks_count": 375
   },
   {
     "full_name": "deepjavalibrary/djl-demo",
@@ -43,13 +43,13 @@
   },
   {
     "full_name": "openjdk/jdk",
-    "stargazers_count": 12145,
-    "open_issues_count": 176,
-    "forks_count": 3185
+    "stargazers_count": 12151,
+    "open_issues_count": 173,
+    "forks_count": 3187
   },
   {
     "full_name": "inconshreveable/ngrok",
-    "stargazers_count": 21336,
+    "stargazers_count": 21338,
     "open_issues_count": 343,
     "forks_count": 3942
   },
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "libuv/libuv",
-    "stargazers_count": 18863,
+    "stargazers_count": 18867,
     "open_issues_count": 168,
-    "forks_count": 3048
+    "forks_count": 3046
   },
   {
     "full_name": "lirantal/nodejs-cli-apps-best-practices",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "apache/logging-log4j2",
-    "stargazers_count": 2701,
-    "open_issues_count": 43,
-    "forks_count": 1325
+    "stargazers_count": 2704,
+    "open_issues_count": 45,
+    "forks_count": 1326
   },
   {
     "full_name": "ammbra/resilience",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "danilowoz/react-content-loader",
-    "stargazers_count": 11955,
+    "stargazers_count": 11957,
     "open_issues_count": 5,
     "forks_count": 413
   },
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "lettuce-io/lettuce-core",
-    "stargazers_count": 4396,
+    "stargazers_count": 4399,
     "open_issues_count": 63,
-    "forks_count": 808
+    "forks_count": 809
   },
   {
     "full_name": "aalansehaiyang/technology-talk",
-    "stargazers_count": 12218,
+    "stargazers_count": 12219,
     "open_issues_count": 9,
-    "forks_count": 3517
+    "forks_count": 3519
   },
   {
     "full_name": "asc-lab/micronaut-microservices-poc",
@@ -139,8 +139,8 @@
   },
   {
     "full_name": "kiegroup/kogito-runtimes",
-    "stargazers_count": 295,
-    "open_issues_count": 62,
+    "stargazers_count": 296,
+    "open_issues_count": 63,
     "forks_count": 127
   },
   {
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "kettanaito/naming-cheatsheet",
-    "stargazers_count": 9663,
+    "stargazers_count": 9665,
     "open_issues_count": 23,
     "forks_count": 477
   },
   {
     "full_name": "alan2207/bulletproof-react",
-    "stargazers_count": 8536,
+    "stargazers_count": 8539,
     "open_issues_count": 6,
-    "forks_count": 570
+    "forks_count": 572
   },
   {
     "full_name": "bregman-arie/system-design-notebook",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "bregman-arie/devops-resources",
-    "stargazers_count": 4090,
+    "stargazers_count": 4093,
     "open_issues_count": 6,
-    "forks_count": 840
+    "forks_count": 841
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 21132,
+    "stargazers_count": 21148,
     "open_issues_count": 16,
-    "forks_count": 4372
+    "forks_count": 4381
   }
 ]
