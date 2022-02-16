@@ -1,8 +1,8 @@
 [
   {
     "full_name": "apache/camel-karavan",
-    "stargazers_count": 63,
-    "open_issues_count": 18,
+    "stargazers_count": 66,
+    "open_issues_count": 19,
     "forks_count": 14
   },
   {
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "elastic/helm-charts",
-    "stargazers_count": 1453,
-    "open_issues_count": 70,
-    "forks_count": 1484
+    "stargazers_count": 1454,
+    "open_issues_count": 69,
+    "forks_count": 1487
   },
   {
     "full_name": "dtzar/helm-kubectl",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "antlr/stringtemplate4",
-    "stargazers_count": 768,
+    "stargazers_count": 769,
     "open_issues_count": 41,
-    "forks_count": 208
+    "forks_count": 207
   },
   {
     "full_name": "mikevoxcap/pluralsight-camel-intro",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "apache/camel",
-    "stargazers_count": 4133,
-    "open_issues_count": 4,
+    "stargazers_count": 4137,
+    "open_issues_count": 7,
     "forks_count": 4463
   },
   {
     "full_name": "deepjavalibrary/djl",
     "stargazers_count": 2345,
     "open_issues_count": 96,
-    "forks_count": 376
+    "forks_count": 377
   },
   {
     "full_name": "deepjavalibrary/djl-demo",
@@ -67,14 +67,14 @@
   },
   {
     "full_name": "openjdk/jdk",
-    "stargazers_count": 12231,
-    "open_issues_count": 178,
-    "forks_count": 3209
+    "stargazers_count": 12235,
+    "open_issues_count": 177,
+    "forks_count": 3210
   },
   {
     "full_name": "inconshreveable/ngrok",
-    "stargazers_count": 21362,
-    "open_issues_count": 345,
+    "stargazers_count": 21367,
+    "open_issues_count": 344,
     "forks_count": 3944
   },
   {
@@ -86,26 +86,26 @@
   {
     "full_name": "dekorateio/dekorate",
     "stargazers_count": 350,
-    "open_issues_count": 63,
+    "open_issues_count": 64,
     "forks_count": 82
   },
   {
     "full_name": "libuv/libuv",
-    "stargazers_count": 18893,
-    "open_issues_count": 152,
+    "stargazers_count": 18898,
+    "open_issues_count": 155,
     "forks_count": 3048
   },
   {
     "full_name": "lirantal/nodejs-cli-apps-best-practices",
-    "stargazers_count": 2185,
+    "stargazers_count": 2186,
     "open_issues_count": 8,
     "forks_count": 107
   },
   {
     "full_name": "apache/logging-log4j2",
-    "stargazers_count": 2707,
-    "open_issues_count": 47,
-    "forks_count": 1332
+    "stargazers_count": 2706,
+    "open_issues_count": 49,
+    "forks_count": 1333
   },
   {
     "full_name": "ammbra/resilience",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "danilowoz/react-content-loader",
-    "stargazers_count": 11975,
-    "open_issues_count": 8,
-    "forks_count": 411
+    "stargazers_count": 11977,
+    "open_issues_count": 9,
+    "forks_count": 412
   },
   {
     "full_name": "snicoll/spring-boot-configuration-binding",
@@ -128,7 +128,7 @@
   {
     "full_name": "googleapis/nodejs-pubsub",
     "stargazers_count": 406,
-    "open_issues_count": 53,
+    "open_issues_count": 54,
     "forks_count": 207
   },
   {
@@ -140,14 +140,14 @@
   {
     "full_name": "lettuce-io/lettuce-core",
     "stargazers_count": 4414,
-    "open_issues_count": 77,
-    "forks_count": 815
+    "open_issues_count": 79,
+    "forks_count": 816
   },
   {
     "full_name": "aalansehaiyang/technology-talk",
-    "stargazers_count": 12245,
+    "stargazers_count": 12248,
     "open_issues_count": 9,
-    "forks_count": 3532
+    "forks_count": 3533
   },
   {
     "full_name": "asc-lab/micronaut-microservices-poc",
@@ -157,14 +157,14 @@
   },
   {
     "full_name": "hibernate/hibernate-reactive",
-    "stargazers_count": 282,
-    "open_issues_count": 53,
+    "stargazers_count": 283,
+    "open_issues_count": 51,
     "forks_count": 45
   },
   {
     "full_name": "kiegroup/kogito-runtimes",
     "stargazers_count": 296,
-    "open_issues_count": 63,
+    "open_issues_count": 61,
     "forks_count": 127
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "kettanaito/naming-cheatsheet",
-    "stargazers_count": 9712,
+    "stargazers_count": 9723,
     "open_issues_count": 23,
-    "forks_count": 484
+    "forks_count": 486
   }
 ]
