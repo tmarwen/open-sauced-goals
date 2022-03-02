@@ -3,18 +3,18 @@
     "full_name": "apache/camel-karavan",
     "stargazers_count": 67,
     "open_issues_count": 16,
-    "forks_count": 17
+    "forks_count": 19
   },
   {
     "full_name": "StackStorm/st2",
     "stargazers_count": 4683,
     "open_issues_count": 488,
-    "forks_count": 643
+    "forks_count": 645
   },
   {
     "full_name": "elastic/helm-charts",
-    "stargazers_count": 1466,
-    "open_issues_count": 57,
+    "stargazers_count": 1468,
+    "open_issues_count": 54,
     "forks_count": 1497
   },
   {
@@ -37,20 +37,20 @@
   },
   {
     "full_name": "apache/camel-examples",
-    "stargazers_count": 229,
+    "stargazers_count": 230,
     "open_issues_count": 0,
-    "forks_count": 235
+    "forks_count": 234
   },
   {
     "full_name": "apache/camel",
-    "stargazers_count": 4157,
-    "open_issues_count": 8,
-    "forks_count": 4476
+    "stargazers_count": 4160,
+    "open_issues_count": 4,
+    "forks_count": 4477
   },
   {
     "full_name": "deepjavalibrary/djl",
-    "stargazers_count": 2373,
-    "open_issues_count": 102,
+    "stargazers_count": 2375,
+    "open_issues_count": 101,
     "forks_count": 382
   },
   {
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "openjdk/jdk",
-    "stargazers_count": 12342,
-    "open_issues_count": 186,
-    "forks_count": 3242
+    "stargazers_count": 12351,
+    "open_issues_count": 176,
+    "forks_count": 3247
   },
   {
     "full_name": "inconshreveable/ngrok",
-    "stargazers_count": 21414,
+    "stargazers_count": 21419,
     "open_issues_count": 345,
-    "forks_count": 3956
+    "forks_count": 3957
   },
   {
     "full_name": "marchof/java-almanac",
@@ -86,14 +86,14 @@
   {
     "full_name": "dekorateio/dekorate",
     "stargazers_count": 353,
-    "open_issues_count": 61,
+    "open_issues_count": 57,
     "forks_count": 84
   },
   {
     "full_name": "libuv/libuv",
-    "stargazers_count": 18989,
-    "open_issues_count": 162,
-    "forks_count": 3062
+    "stargazers_count": 19000,
+    "open_issues_count": 163,
+    "forks_count": 3061
   },
   {
     "full_name": "lirantal/nodejs-cli-apps-best-practices",
@@ -104,8 +104,8 @@
   {
     "full_name": "apache/logging-log4j2",
     "stargazers_count": 2727,
-    "open_issues_count": 52,
-    "forks_count": 1341
+    "open_issues_count": 54,
+    "forks_count": 1344
   },
   {
     "full_name": "ammbra/resilience",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "danilowoz/react-content-loader",
-    "stargazers_count": 12004,
-    "open_issues_count": 10,
-    "forks_count": 413
+    "stargazers_count": 12006,
+    "open_issues_count": 11,
+    "forks_count": 414
   },
   {
     "full_name": "snicoll/spring-boot-configuration-binding",
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "lettuce-io/lettuce-core",
-    "stargazers_count": 4438,
+    "stargazers_count": 4440,
     "open_issues_count": 57,
     "forks_count": 816
   },
   {
     "full_name": "aalansehaiyang/technology-talk",
-    "stargazers_count": 12275,
+    "stargazers_count": 12280,
     "open_issues_count": 9,
-    "forks_count": 3539
+    "forks_count": 3541
   },
   {
     "full_name": "asc-lab/micronaut-microservices-poc",
@@ -158,7 +158,7 @@
   {
     "full_name": "hibernate/hibernate-reactive",
     "stargazers_count": 287,
-    "open_issues_count": 53,
+    "open_issues_count": 51,
     "forks_count": 47
   },
   {
@@ -170,13 +170,13 @@
   {
     "full_name": "database-rider/database-rider",
     "stargazers_count": 472,
-    "open_issues_count": 29,
+    "open_issues_count": 30,
     "forks_count": 101
   },
   {
     "full_name": "kettanaito/naming-cheatsheet",
-    "stargazers_count": 9808,
+    "stargazers_count": 9817,
     "open_issues_count": 22,
-    "forks_count": 500
+    "forks_count": 502
   }
 ]
