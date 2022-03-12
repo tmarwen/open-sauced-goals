@@ -7,7 +7,7 @@
   },
   {
     "full_name": "moby/libnetwork",
-    "stargazers_count": 1939,
+    "stargazers_count": 1940,
     "open_issues_count": 296,
     "forks_count": 882
   },
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "machyve/xhyve",
-    "stargazers_count": 6256,
+    "stargazers_count": 6255,
     "open_issues_count": 86,
     "forks_count": 354
   },
   {
     "full_name": "jaywcjlove/awesome-mac",
-    "stargazers_count": 48084,
+    "stargazers_count": 48111,
     "open_issues_count": 125,
-    "forks_count": 5239
+    "forks_count": 5244
   },
   {
     "full_name": "mcuking/Awesome-WebAssembly-Applications",
@@ -37,32 +37,32 @@
   },
   {
     "full_name": "WebAssembly/spec",
-    "stargazers_count": 2532,
-    "open_issues_count": 72,
+    "stargazers_count": 2533,
+    "open_issues_count": 73,
     "forks_count": 371
   },
   {
     "full_name": "vishnubob/wait-for-it",
-    "stargazers_count": 7474,
+    "stargazers_count": 7482,
     "open_issues_count": 72,
     "forks_count": 2084
   },
   {
     "full_name": "apache/camel-karavan",
-    "stargazers_count": 71,
-    "open_issues_count": 15,
+    "stargazers_count": 72,
+    "open_issues_count": 16,
     "forks_count": 20
   },
   {
     "full_name": "StackStorm/st2",
-    "stargazers_count": 4695,
+    "stargazers_count": 4698,
     "open_issues_count": 489,
-    "forks_count": 649
+    "forks_count": 650
   },
   {
     "full_name": "elastic/helm-charts",
     "stargazers_count": 1476,
-    "open_issues_count": 39,
+    "open_issues_count": 40,
     "forks_count": 1508
   },
   {
@@ -74,7 +74,7 @@
   {
     "full_name": "antlr/stringtemplate4",
     "stargazers_count": 777,
-    "open_issues_count": 42,
+    "open_issues_count": 39,
     "forks_count": 209
   },
   {
@@ -87,13 +87,13 @@
     "full_name": "apache/camel-examples",
     "stargazers_count": 232,
     "open_issues_count": 0,
-    "forks_count": 238
+    "forks_count": 240
   },
   {
     "full_name": "apache/camel",
     "stargazers_count": 4174,
-    "open_issues_count": 5,
-    "forks_count": 4482
+    "open_issues_count": 6,
+    "forks_count": 4483
   },
   {
     "full_name": "deepjavalibrary/djl",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "deepjavalibrary/djl-demo",
-    "stargazers_count": 176,
+    "stargazers_count": 177,
     "open_issues_count": 2,
     "forks_count": 76
   },
@@ -115,33 +115,33 @@
   },
   {
     "full_name": "openjdk/jdk",
-    "stargazers_count": 12420,
-    "open_issues_count": 185,
-    "forks_count": 3269
+    "stargazers_count": 12428,
+    "open_issues_count": 192,
+    "forks_count": 3275
   },
   {
     "full_name": "inconshreveable/ngrok",
-    "stargazers_count": 21456,
+    "stargazers_count": 21459,
     "open_issues_count": 346,
-    "forks_count": 3969
+    "forks_count": 3971
   },
   {
     "full_name": "marchof/java-almanac",
     "stargazers_count": 840,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 45
   },
   {
     "full_name": "dekorateio/dekorate",
     "stargazers_count": 354,
-    "open_issues_count": 57,
+    "open_issues_count": 58,
     "forks_count": 85
   },
   {
     "full_name": "libuv/libuv",
-    "stargazers_count": 19055,
-    "open_issues_count": 174,
-    "forks_count": 3064
+    "stargazers_count": 19060,
+    "open_issues_count": 171,
+    "forks_count": 3066
   },
   {
     "full_name": "lirantal/nodejs-cli-apps-best-practices",
@@ -152,8 +152,8 @@
   {
     "full_name": "apache/logging-log4j2",
     "stargazers_count": 2736,
-    "open_issues_count": 53,
-    "forks_count": 1353
+    "open_issues_count": 56,
+    "forks_count": 1354
   },
   {
     "full_name": "ammbra/resilience",
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "danilowoz/react-content-loader",
-    "stargazers_count": 12030,
+    "stargazers_count": 12031,
     "open_issues_count": 10,
     "forks_count": 416
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "googleapis/nodejs-pubsub",
-    "stargazers_count": 406,
+    "stargazers_count": 408,
     "open_issues_count": 51,
     "forks_count": 209
   }
