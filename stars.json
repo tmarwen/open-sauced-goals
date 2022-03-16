@@ -14,8 +14,8 @@
   {
     "full_name": "moby/libnetwork",
     "stargazers_count": 1940,
-    "open_issues_count": 297,
-    "forks_count": 883
+    "open_issues_count": 296,
+    "forks_count": 882
   },
   {
     "full_name": "justincormack/nsenter1",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "machyve/xhyve",
-    "stargazers_count": 6255,
+    "stargazers_count": 6256,
     "open_issues_count": 86,
     "forks_count": 355
   },
   {
     "full_name": "jaywcjlove/awesome-mac",
-    "stargazers_count": 48166,
+    "stargazers_count": 48182,
     "open_issues_count": 125,
-    "forks_count": 5252
+    "forks_count": 5253
   },
   {
     "full_name": "mcuking/Awesome-WebAssembly-Applications",
@@ -43,13 +43,13 @@
   },
   {
     "full_name": "WebAssembly/spec",
-    "stargazers_count": 2532,
+    "stargazers_count": 2533,
     "open_issues_count": 73,
     "forks_count": 371
   },
   {
     "full_name": "vishnubob/wait-for-it",
-    "stargazers_count": 7494,
+    "stargazers_count": 7496,
     "open_issues_count": 72,
     "forks_count": 2087
   },
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "elastic/helm-charts",
-    "stargazers_count": 1479,
-    "open_issues_count": 41,
-    "forks_count": 1510
+    "stargazers_count": 1480,
+    "open_issues_count": 42,
+    "forks_count": 1511
   },
   {
     "full_name": "dtzar/helm-kubectl",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "antlr/stringtemplate4",
-    "stargazers_count": 779,
+    "stargazers_count": 781,
     "open_issues_count": 39,
     "forks_count": 218
   },
@@ -92,19 +92,19 @@
   {
     "full_name": "apache/camel-examples",
     "stargazers_count": 233,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 241
   },
   {
     "full_name": "apache/camel",
-    "stargazers_count": 4175,
-    "open_issues_count": 6,
+    "stargazers_count": 4176,
+    "open_issues_count": 7,
     "forks_count": 4482
   },
   {
     "full_name": "deepjavalibrary/djl",
-    "stargazers_count": 2390,
-    "open_issues_count": 102,
+    "stargazers_count": 2391,
+    "open_issues_count": 104,
     "forks_count": 387
   },
   {
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "syndesisio/syndesis",
-    "stargazers_count": 493,
-    "open_issues_count": 79,
+    "stargazers_count": 494,
+    "open_issues_count": 81,
     "forks_count": 201
   },
   {
     "full_name": "openjdk/jdk",
-    "stargazers_count": 12457,
-    "open_issues_count": 187,
+    "stargazers_count": 12466,
+    "open_issues_count": 192,
     "forks_count": 3293
   },
   {
     "full_name": "inconshreveable/ngrok",
-    "stargazers_count": 21467,
-    "open_issues_count": 346,
-    "forks_count": 3979
+    "stargazers_count": 21470,
+    "open_issues_count": 348,
+    "forks_count": 3983
   },
   {
     "full_name": "marchof/java-almanac",
@@ -145,21 +145,21 @@
   },
   {
     "full_name": "libuv/libuv",
-    "stargazers_count": 19075,
-    "open_issues_count": 170,
-    "forks_count": 3072
+    "stargazers_count": 19078,
+    "open_issues_count": 172,
+    "forks_count": 3074
   },
   {
     "full_name": "lirantal/nodejs-cli-apps-best-practices",
-    "stargazers_count": 2220,
+    "stargazers_count": 2219,
     "open_issues_count": 7,
     "forks_count": 110
   },
   {
     "full_name": "apache/logging-log4j2",
-    "stargazers_count": 2738,
-    "open_issues_count": 51,
-    "forks_count": 1354
+    "stargazers_count": 2739,
+    "open_issues_count": 53,
+    "forks_count": 1356
   },
   {
     "full_name": "ammbra/resilience",
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "danilowoz/react-content-loader",
-    "stargazers_count": 12040,
+    "stargazers_count": 12042,
     "open_issues_count": 10,
     "forks_count": 416
   },
