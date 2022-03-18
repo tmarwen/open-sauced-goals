@@ -15,25 +15,25 @@
     "full_name": "moby/libnetwork",
     "stargazers_count": 1940,
     "open_issues_count": 296,
-    "forks_count": 882
+    "forks_count": 881
   },
   {
     "full_name": "justincormack/nsenter1",
-    "stargazers_count": 347,
+    "stargazers_count": 348,
     "open_issues_count": 4,
-    "forks_count": 46
+    "forks_count": 45
   },
   {
     "full_name": "machyve/xhyve",
-    "stargazers_count": 6256,
+    "stargazers_count": 6257,
     "open_issues_count": 86,
     "forks_count": 355
   },
   {
     "full_name": "jaywcjlove/awesome-mac",
-    "stargazers_count": 48182,
+    "stargazers_count": 48224,
     "open_issues_count": 125,
-    "forks_count": 5253
+    "forks_count": 5259
   },
   {
     "full_name": "mcuking/Awesome-WebAssembly-Applications",
@@ -43,39 +43,39 @@
   },
   {
     "full_name": "WebAssembly/spec",
-    "stargazers_count": 2533,
-    "open_issues_count": 73,
+    "stargazers_count": 2534,
+    "open_issues_count": 74,
     "forks_count": 371
   },
   {
     "full_name": "vishnubob/wait-for-it",
-    "stargazers_count": 7496,
+    "stargazers_count": 7502,
     "open_issues_count": 72,
-    "forks_count": 2087
+    "forks_count": 2091
   },
   {
     "full_name": "apache/camel-karavan",
-    "stargazers_count": 74,
-    "open_issues_count": 15,
+    "stargazers_count": 77,
+    "open_issues_count": 16,
     "forks_count": 21
   },
   {
     "full_name": "StackStorm/st2",
-    "stargazers_count": 4698,
-    "open_issues_count": 489,
-    "forks_count": 650
+    "stargazers_count": 4702,
+    "open_issues_count": 490,
+    "forks_count": 652
   },
   {
     "full_name": "elastic/helm-charts",
-    "stargazers_count": 1480,
-    "open_issues_count": 42,
-    "forks_count": 1511
+    "stargazers_count": 1481,
+    "open_issues_count": 44,
+    "forks_count": 1513
   },
   {
     "full_name": "dtzar/helm-kubectl",
     "stargazers_count": 283,
     "open_issues_count": 1,
-    "forks_count": 103
+    "forks_count": 104
   },
   {
     "full_name": "antlr/stringtemplate4",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "apache/camel-examples",
-    "stargazers_count": 233,
-    "open_issues_count": 1,
-    "forks_count": 241
+    "stargazers_count": 234,
+    "open_issues_count": 0,
+    "forks_count": 243
   },
   {
     "full_name": "apache/camel",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "deepjavalibrary/djl",
-    "stargazers_count": 2391,
-    "open_issues_count": 104,
-    "forks_count": 387
+    "stargazers_count": 2400,
+    "open_issues_count": 103,
+    "forks_count": 389
   },
   {
     "full_name": "deepjavalibrary/djl-demo",
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "syndesisio/syndesis",
-    "stargazers_count": 494,
+    "stargazers_count": 495,
     "open_issues_count": 81,
-    "forks_count": 201
+    "forks_count": 202
   },
   {
     "full_name": "openjdk/jdk",
-    "stargazers_count": 12466,
-    "open_issues_count": 192,
-    "forks_count": 3293
+    "stargazers_count": 12480,
+    "open_issues_count": 204,
+    "forks_count": 3300
   },
   {
     "full_name": "inconshreveable/ngrok",
-    "stargazers_count": 21470,
+    "stargazers_count": 21475,
     "open_issues_count": 348,
-    "forks_count": 3983
+    "forks_count": 3985
   },
   {
     "full_name": "marchof/java-almanac",
@@ -145,21 +145,21 @@
   },
   {
     "full_name": "libuv/libuv",
-    "stargazers_count": 19078,
-    "open_issues_count": 172,
+    "stargazers_count": 19085,
+    "open_issues_count": 179,
     "forks_count": 3074
   },
   {
     "full_name": "lirantal/nodejs-cli-apps-best-practices",
-    "stargazers_count": 2219,
+    "stargazers_count": 2221,
     "open_issues_count": 7,
     "forks_count": 110
   },
   {
     "full_name": "apache/logging-log4j2",
-    "stargazers_count": 2739,
-    "open_issues_count": 53,
-    "forks_count": 1356
+    "stargazers_count": 2740,
+    "open_issues_count": 55,
+    "forks_count": 1357
   },
   {
     "full_name": "ammbra/resilience",
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "danilowoz/react-content-loader",
-    "stargazers_count": 12042,
+    "stargazers_count": 12046,
     "open_issues_count": 10,
     "forks_count": 416
   },
