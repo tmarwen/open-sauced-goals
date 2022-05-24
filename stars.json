@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "multiprocessio/dsq",
+    "stargazers_count": 1954,
+    "open_issues_count": 4,
+    "forks_count": 78
+  },
+  {
+    "full_name": "erikgrinaker/toydb",
+    "stargazers_count": 3539,
+    "open_issues_count": 4,
+    "forks_count": 290
+  },
+  {
     "full_name": "testcontainers/moby-ryuk",
     "stargazers_count": 87,
     "open_issues_count": 9,
@@ -7,45 +19,45 @@
   },
   {
     "full_name": "apocas/dockerode",
-    "stargazers_count": 3538,
+    "stargazers_count": 3540,
     "open_issues_count": 53,
     "forks_count": 433
   },
   {
     "full_name": "orientechnologies/orientdb",
-    "stargazers_count": 4453,
-    "open_issues_count": 226,
+    "stargazers_count": 4456,
+    "open_issues_count": 227,
     "forks_count": 850
   },
   {
     "full_name": "apache/shardingsphere",
-    "stargazers_count": 15910,
-    "open_issues_count": 531,
-    "forks_count": 5613
+    "stargazers_count": 15923,
+    "open_issues_count": 521,
+    "forks_count": 5621
   },
   {
     "full_name": "rqlite/rqlite",
-    "stargazers_count": 10363,
-    "open_issues_count": 40,
+    "stargazers_count": 10383,
+    "open_issues_count": 39,
     "forks_count": 524
   },
   {
     "full_name": "dgraph-io/dgraph",
-    "stargazers_count": 18036,
+    "stargazers_count": 18047,
     "open_issues_count": 108,
-    "forks_count": 1359
+    "forks_count": 1360
   },
   {
     "full_name": "influxdata/influxdb",
-    "stargazers_count": 23506,
-    "open_issues_count": 1498,
-    "forks_count": 3180
+    "stargazers_count": 23521,
+    "open_issues_count": 1500,
+    "forks_count": 3183
   },
   {
     "full_name": "pingcap/tidb",
-    "stargazers_count": 31336,
-    "open_issues_count": 3374,
-    "forks_count": 5080
+    "stargazers_count": 31367,
+    "open_issues_count": 3390,
+    "forks_count": 5084
   },
   {
     "full_name": "hokaccha/nodebrew",
@@ -73,7 +85,7 @@
   },
   {
     "full_name": "justincormack/nsenter1",
-    "stargazers_count": 359,
+    "stargazers_count": 361,
     "open_issues_count": 4,
     "forks_count": 48
   },
@@ -85,49 +97,49 @@
   },
   {
     "full_name": "jaywcjlove/awesome-mac",
-    "stargazers_count": 49313,
+    "stargazers_count": 49351,
     "open_issues_count": 129,
-    "forks_count": 5342
+    "forks_count": 5345
   },
   {
     "full_name": "mcuking/Awesome-WebAssembly-Applications",
-    "stargazers_count": 124,
+    "stargazers_count": 125,
     "open_issues_count": 0,
     "forks_count": 14
   },
   {
     "full_name": "WebAssembly/spec",
-    "stargazers_count": 2608,
+    "stargazers_count": 2612,
     "open_issues_count": 78,
     "forks_count": 391
   },
   {
     "full_name": "vishnubob/wait-for-it",
-    "stargazers_count": 7689,
+    "stargazers_count": 7700,
     "open_issues_count": 73,
-    "forks_count": 2131
+    "forks_count": 2132
   },
   {
     "full_name": "apache/camel-karavan",
-    "stargazers_count": 110,
+    "stargazers_count": 111,
     "open_issues_count": 28,
     "forks_count": 28
   },
   {
     "full_name": "StackStorm/st2",
-    "stargazers_count": 4782,
-    "open_issues_count": 483,
+    "stargazers_count": 4788,
+    "open_issues_count": 482,
     "forks_count": 662
   },
   {
     "full_name": "elastic/helm-charts",
-    "stargazers_count": 1540,
+    "stargazers_count": 1544,
     "open_issues_count": 50,
-    "forks_count": 1596
+    "forks_count": 1601
   },
   {
     "full_name": "dtzar/helm-kubectl",
-    "stargazers_count": 290,
+    "stargazers_count": 291,
     "open_issues_count": 1,
     "forks_count": 107
   },
@@ -147,36 +159,24 @@
     "full_name": "apache/camel-examples",
     "stargazers_count": 250,
     "open_issues_count": 0,
-    "forks_count": 264
+    "forks_count": 266
   },
   {
     "full_name": "apache/camel",
-    "stargazers_count": 4334,
-    "open_issues_count": 14,
-    "forks_count": 4511
+    "stargazers_count": 4338,
+    "open_issues_count": 4,
+    "forks_count": 4516
   },
   {
     "full_name": "deepjavalibrary/djl",
-    "stargazers_count": 2517,
-    "open_issues_count": 115,
-    "forks_count": 408
+    "stargazers_count": 2519,
+    "open_issues_count": 119,
+    "forks_count": 409
   },
   {
     "full_name": "deepjavalibrary/djl-demo",
     "stargazers_count": 185,
     "open_issues_count": 5,
     "forks_count": 78
-  },
-  {
-    "full_name": "syndesisio/syndesis",
-    "stargazers_count": 504,
-    "open_issues_count": 73,
-    "forks_count": 200
-  },
-  {
-    "full_name": "openjdk/jdk",
-    "stargazers_count": 13124,
-    "open_issues_count": 221,
-    "forks_count": 3520
   }
 ]
