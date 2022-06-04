@@ -1,39 +1,39 @@
 [
   {
     "full_name": "skytable/skytable",
-    "stargazers_count": 869,
+    "stargazers_count": 870,
     "open_issues_count": 10,
     "forks_count": 38
   },
   {
     "full_name": "romange/helio",
-    "stargazers_count": 96,
+    "stargazers_count": 97,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "dragonflydb/dragonfly",
-    "stargazers_count": 5462,
-    "open_issues_count": 16,
-    "forks_count": 74
+    "stargazers_count": 5674,
+    "open_issues_count": 19,
+    "forks_count": 79
   },
   {
     "full_name": "brettwooldridge/HikariCP",
-    "stargazers_count": 16825,
+    "stargazers_count": 16827,
     "open_issues_count": 406,
     "forks_count": 2579
   },
   {
     "full_name": "multiprocessio/dsq",
-    "stargazers_count": 1987,
+    "stargazers_count": 1990,
     "open_issues_count": 3,
     "forks_count": 78
   },
   {
     "full_name": "erikgrinaker/toydb",
-    "stargazers_count": 3555,
+    "stargazers_count": 3556,
     "open_issues_count": 4,
-    "forks_count": 291
+    "forks_count": 290
   },
   {
     "full_name": "testcontainers/moby-ryuk",
@@ -51,37 +51,37 @@
     "full_name": "orientechnologies/orientdb",
     "stargazers_count": 4456,
     "open_issues_count": 233,
-    "forks_count": 853
+    "forks_count": 854
   },
   {
     "full_name": "apache/shardingsphere",
-    "stargazers_count": 16025,
+    "stargazers_count": 16027,
     "open_issues_count": 541,
-    "forks_count": 5647
+    "forks_count": 5646
   },
   {
     "full_name": "rqlite/rqlite",
-    "stargazers_count": 10477,
+    "stargazers_count": 10483,
     "open_issues_count": 39,
     "forks_count": 524
   },
   {
     "full_name": "dgraph-io/dgraph",
-    "stargazers_count": 18086,
+    "stargazers_count": 18089,
     "open_issues_count": 108,
     "forks_count": 1363
   },
   {
     "full_name": "influxdata/influxdb",
-    "stargazers_count": 23574,
-    "open_issues_count": 1517,
+    "stargazers_count": 23578,
+    "open_issues_count": 1520,
     "forks_count": 3187
   },
   {
     "full_name": "pingcap/tidb",
-    "stargazers_count": 31472,
-    "open_issues_count": 3449,
-    "forks_count": 5100
+    "stargazers_count": 31481,
+    "open_issues_count": 3450,
+    "forks_count": 5104
   },
   {
     "full_name": "hokaccha/nodebrew",
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "machyve/xhyve",
-    "stargazers_count": 6295,
+    "stargazers_count": 6294,
     "open_issues_count": 86,
     "forks_count": 358
   },
   {
     "full_name": "jaywcjlove/awesome-mac",
-    "stargazers_count": 49483,
-    "open_issues_count": 129,
-    "forks_count": 5358
+    "stargazers_count": 49494,
+    "open_issues_count": 128,
+    "forks_count": 5360
   },
   {
     "full_name": "mcuking/Awesome-WebAssembly-Applications",
@@ -133,25 +133,25 @@
   },
   {
     "full_name": "WebAssembly/spec",
-    "stargazers_count": 2618,
-    "open_issues_count": 79,
+    "stargazers_count": 2619,
+    "open_issues_count": 80,
     "forks_count": 391
   },
   {
     "full_name": "vishnubob/wait-for-it",
-    "stargazers_count": 7738,
+    "stargazers_count": 7739,
     "open_issues_count": 73,
-    "forks_count": 2143
+    "forks_count": 2144
   },
   {
     "full_name": "apache/camel-karavan",
-    "stargazers_count": 115,
+    "stargazers_count": 116,
     "open_issues_count": 25,
     "forks_count": 28
   },
   {
     "full_name": "StackStorm/st2",
-    "stargazers_count": 4800,
+    "stargazers_count": 4799,
     "open_issues_count": 482,
     "forks_count": 663
   },
@@ -159,11 +159,11 @@
     "full_name": "elastic/helm-charts",
     "stargazers_count": 1554,
     "open_issues_count": 49,
-    "forks_count": 1617
+    "forks_count": 1621
   },
   {
     "full_name": "dtzar/helm-kubectl",
-    "stargazers_count": 292,
+    "stargazers_count": 293,
     "open_issues_count": 1,
     "forks_count": 107
   },
@@ -171,7 +171,7 @@
     "full_name": "antlr/stringtemplate4",
     "stargazers_count": 803,
     "open_issues_count": 35,
-    "forks_count": 224
+    "forks_count": 223
   },
   {
     "full_name": "mikevoxcap/pluralsight-camel-intro",
