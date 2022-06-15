@@ -2,116 +2,116 @@
   {
     "full_name": "cashapp/pranadb",
     "stargazers_count": 565,
-    "open_issues_count": 71,
+    "open_issues_count": 75,
     "forks_count": 18
   },
   {
     "full_name": "tree-sitter/tree-sitter",
-    "stargazers_count": 8837,
-    "open_issues_count": 341,
-    "forks_count": 497
+    "stargazers_count": 8861,
+    "open_issues_count": 339,
+    "forks_count": 498
   },
   {
     "full_name": "statsd/statsd",
-    "stargazers_count": 16477,
+    "stargazers_count": 16480,
     "open_issues_count": 84,
     "forks_count": 1979
   },
   {
     "full_name": "nsqio/nsq",
-    "stargazers_count": 21445,
+    "stargazers_count": 21446,
     "open_issues_count": 63,
     "forks_count": 2730
   },
   {
     "full_name": "binhnguyennus/awesome-scalability",
-    "stargazers_count": 38799,
+    "stargazers_count": 38813,
     "open_issues_count": 12,
-    "forks_count": 4571
+    "forks_count": 4574
   },
   {
     "full_name": "skytable/skytable",
     "stargazers_count": 875,
-    "open_issues_count": 10,
+    "open_issues_count": 11,
     "forks_count": 38
   },
   {
     "full_name": "romange/helio",
-    "stargazers_count": 117,
+    "stargazers_count": 118,
     "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "dragonflydb/dragonfly",
-    "stargazers_count": 7329,
-    "open_issues_count": 26,
-    "forks_count": 109
+    "stargazers_count": 7372,
+    "open_issues_count": 30,
+    "forks_count": 112
   },
   {
     "full_name": "brettwooldridge/HikariCP",
-    "stargazers_count": 16851,
+    "stargazers_count": 16853,
     "open_issues_count": 407,
-    "forks_count": 2583
+    "forks_count": 2584
   },
   {
     "full_name": "multiprocessio/dsq",
-    "stargazers_count": 2013,
-    "open_issues_count": 4,
+    "stargazers_count": 2017,
+    "open_issues_count": 5,
     "forks_count": 79
   },
   {
     "full_name": "erikgrinaker/toydb",
-    "stargazers_count": 3569,
+    "stargazers_count": 3571,
     "open_issues_count": 4,
-    "forks_count": 292
+    "forks_count": 293
   },
   {
     "full_name": "testcontainers/moby-ryuk",
-    "stargazers_count": 87,
+    "stargazers_count": 88,
     "open_issues_count": 9,
     "forks_count": 18
   },
   {
     "full_name": "apocas/dockerode",
-    "stargazers_count": 3549,
-    "open_issues_count": 50,
+    "stargazers_count": 3552,
+    "open_issues_count": 49,
     "forks_count": 434
   },
   {
     "full_name": "orientechnologies/orientdb",
     "stargazers_count": 4460,
-    "open_issues_count": 232,
+    "open_issues_count": 225,
     "forks_count": 855
   },
   {
     "full_name": "apache/shardingsphere",
-    "stargazers_count": 16082,
-    "open_issues_count": 520,
-    "forks_count": 5663
+    "stargazers_count": 16090,
+    "open_issues_count": 516,
+    "forks_count": 5665
   },
   {
     "full_name": "rqlite/rqlite",
-    "stargazers_count": 10523,
+    "stargazers_count": 10530,
     "open_issues_count": 40,
     "forks_count": 528
   },
   {
     "full_name": "dgraph-io/dgraph",
-    "stargazers_count": 18121,
+    "stargazers_count": 18125,
     "open_issues_count": 109,
     "forks_count": 1362
   },
   {
     "full_name": "influxdata/influxdb",
-    "stargazers_count": 23628,
-    "open_issues_count": 1528,
-    "forks_count": 3192
+    "stargazers_count": 23632,
+    "open_issues_count": 1525,
+    "forks_count": 3194
   },
   {
     "full_name": "pingcap/tidb",
-    "stargazers_count": 31554,
-    "open_issues_count": 3541,
-    "forks_count": 5117
+    "stargazers_count": 31562,
+    "open_issues_count": 3532,
+    "forks_count": 5119
   },
   {
     "full_name": "hokaccha/nodebrew",
@@ -145,13 +145,13 @@
   },
   {
     "full_name": "machyve/xhyve",
-    "stargazers_count": 6298,
+    "stargazers_count": 6297,
     "open_issues_count": 87,
     "forks_count": 358
   },
   {
     "full_name": "jaywcjlove/awesome-mac",
-    "stargazers_count": 49641,
+    "stargazers_count": 49658,
     "open_issues_count": 126,
     "forks_count": 5365
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "WebAssembly/spec",
-    "stargazers_count": 2631,
+    "stargazers_count": 2633,
     "open_issues_count": 80,
     "forks_count": 395
   },
   {
     "full_name": "vishnubob/wait-for-it",
-    "stargazers_count": 7755,
+    "stargazers_count": 7761,
     "open_issues_count": 73,
-    "forks_count": 2145
+    "forks_count": 2147
   },
   {
     "full_name": "apache/camel-karavan",
-    "stargazers_count": 120,
-    "open_issues_count": 22,
+    "stargazers_count": 121,
+    "open_issues_count": 25,
     "forks_count": 28
   }
 ]
