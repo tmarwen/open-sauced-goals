@@ -1,13 +1,31 @@
 [
   {
+    "full_name": "svix/svix-webhooks",
+    "stargazers_count": 652,
+    "open_issues_count": 23,
+    "forks_count": 42
+  },
+  {
+    "full_name": "AugustNagro/java-async-await",
+    "stargazers_count": 41,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "vert-x3/vertx-virtual-threads-incubator",
+    "stargazers_count": 30,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "aphyr/distsys-class",
-    "stargazers_count": 8101,
+    "stargazers_count": 8100,
     "open_issues_count": 6,
     "forks_count": 628
   },
   {
     "full_name": "rsocket/rsocket-java",
-    "stargazers_count": 2172,
+    "stargazers_count": 2173,
     "open_issues_count": 36,
     "forks_count": 331
   },
@@ -19,15 +37,15 @@
   },
   {
     "full_name": "krustlet/krustlet",
-    "stargazers_count": 2956,
+    "stargazers_count": 2958,
     "open_issues_count": 55,
     "forks_count": 197
   },
   {
     "full_name": "WebAssembly/component-model",
-    "stargazers_count": 143,
-    "open_issues_count": 18,
-    "forks_count": 15
+    "stargazers_count": 145,
+    "open_issues_count": 19,
+    "forks_count": 16
   },
   {
     "full_name": "mirkosertic/Bytecoder",
@@ -37,21 +55,21 @@
   },
   {
     "full_name": "konsoletyper/teavm",
-    "stargazers_count": 1961,
-    "open_issues_count": 154,
+    "stargazers_count": 1962,
+    "open_issues_count": 155,
     "forks_count": 207
   },
   {
     "full_name": "appcypher/awesome-wasm-langs",
-    "stargazers_count": 3302,
-    "open_issues_count": 11,
-    "forks_count": 148
+    "stargazers_count": 3308,
+    "open_issues_count": 12,
+    "forks_count": 150
   },
   {
     "full_name": "spacedriveapp/spacedrive",
-    "stargazers_count": 13091,
-    "open_issues_count": 53,
-    "forks_count": 326
+    "stargazers_count": 13146,
+    "open_issues_count": 49,
+    "forks_count": 327
   },
   {
     "full_name": "lightbend/microprofile-reactive-streams",
@@ -62,7 +80,7 @@
   {
     "full_name": "eclipse/microprofile-reactive-streams-operators",
     "stargazers_count": 75,
-    "open_issues_count": 14,
+    "open_issues_count": 15,
     "forks_count": 33
   },
   {
@@ -85,7 +103,7 @@
   },
   {
     "full_name": "w3c/trace-context",
-    "stargazers_count": 389,
+    "stargazers_count": 388,
     "open_issues_count": 19,
     "forks_count": 77
   },
@@ -97,86 +115,68 @@
   },
   {
     "full_name": "cashapp/pranadb",
-    "stargazers_count": 568,
-    "open_issues_count": 71,
-    "forks_count": 19
+    "stargazers_count": 576,
+    "open_issues_count": 69,
+    "forks_count": 18
   },
   {
     "full_name": "tree-sitter/tree-sitter",
-    "stargazers_count": 9017,
-    "open_issues_count": 351,
-    "forks_count": 511
+    "stargazers_count": 9039,
+    "open_issues_count": 353,
+    "forks_count": 513
   },
   {
     "full_name": "statsd/statsd",
-    "stargazers_count": 16534,
+    "stargazers_count": 16539,
     "open_issues_count": 84,
-    "forks_count": 1982
+    "forks_count": 1981
   },
   {
     "full_name": "nsqio/nsq",
-    "stargazers_count": 21562,
+    "stargazers_count": 21566,
     "open_issues_count": 65,
     "forks_count": 2733
   },
   {
     "full_name": "binhnguyennus/awesome-scalability",
-    "stargazers_count": 39320,
-    "open_issues_count": 14,
-    "forks_count": 4609
+    "stargazers_count": 39378,
+    "open_issues_count": 13,
+    "forks_count": 4610
   },
   {
     "full_name": "skytable/skytable",
-    "stargazers_count": 1097,
+    "stargazers_count": 1101,
     "open_issues_count": 15,
     "forks_count": 40
   },
   {
     "full_name": "romange/helio",
-    "stargazers_count": 132,
+    "stargazers_count": 134,
     "open_issues_count": 3,
     "forks_count": 4
   },
   {
     "full_name": "dragonflydb/dragonfly",
-    "stargazers_count": 8683,
-    "open_issues_count": 32,
-    "forks_count": 165
+    "stargazers_count": 8775,
+    "open_issues_count": 30,
+    "forks_count": 168
   },
   {
     "full_name": "brettwooldridge/HikariCP",
-    "stargazers_count": 16958,
+    "stargazers_count": 16970,
     "open_issues_count": 408,
-    "forks_count": 2590
+    "forks_count": 2591
   },
   {
     "full_name": "multiprocessio/dsq",
-    "stargazers_count": 2510,
+    "stargazers_count": 2519,
     "open_issues_count": 11,
     "forks_count": 85
   },
   {
     "full_name": "erikgrinaker/toydb",
-    "stargazers_count": 3626,
+    "stargazers_count": 3635,
     "open_issues_count": 4,
-    "forks_count": 299
-  },
-  {
-    "full_name": "testcontainers/moby-ryuk",
-    "stargazers_count": 93,
-    "open_issues_count": 10,
-    "forks_count": 18
-  },
-  {
-    "full_name": "apocas/dockerode",
-    "stargazers_count": 3566,
-    "open_issues_count": 51,
-    "forks_count": 436
-  },
-  {
-    "full_name": "orientechnologies/orientdb",
-    "stargazers_count": 4472,
-    "open_issues_count": 228,
-    "forks_count": 857
+    "forks_count": 301
   }
 ]
