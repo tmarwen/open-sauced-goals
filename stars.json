@@ -2,7 +2,7 @@
   {
     "full_name": "svix/svix-webhooks",
     "stargazers_count": 653,
-    "open_issues_count": 25,
+    "open_issues_count": 23,
     "forks_count": 41
   },
   {
@@ -15,17 +15,17 @@
     "full_name": "vert-x3/vertx-virtual-threads-incubator",
     "stargazers_count": 30,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "aphyr/distsys-class",
-    "stargazers_count": 8103,
+    "stargazers_count": 8104,
     "open_issues_count": 6,
     "forks_count": 629
   },
   {
     "full_name": "rsocket/rsocket-java",
-    "stargazers_count": 2175,
+    "stargazers_count": 2176,
     "open_issues_count": 36,
     "forks_count": 332
   },
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "krustlet/krustlet",
-    "stargazers_count": 2965,
-    "open_issues_count": 55,
+    "stargazers_count": 2966,
+    "open_issues_count": 56,
     "forks_count": 197
   },
   {
     "full_name": "WebAssembly/component-model",
-    "stargazers_count": 147,
+    "stargazers_count": 148,
     "open_issues_count": 20,
     "forks_count": 16
   },
@@ -56,20 +56,20 @@
   {
     "full_name": "konsoletyper/teavm",
     "stargazers_count": 1967,
-    "open_issues_count": 155,
+    "open_issues_count": 154,
     "forks_count": 207
   },
   {
     "full_name": "appcypher/awesome-wasm-langs",
-    "stargazers_count": 3315,
-    "open_issues_count": 4,
+    "stargazers_count": 3318,
+    "open_issues_count": 5,
     "forks_count": 150
   },
   {
     "full_name": "spacedriveapp/spacedrive",
-    "stargazers_count": 13200,
+    "stargazers_count": 13212,
     "open_issues_count": 50,
-    "forks_count": 333
+    "forks_count": 334
   },
   {
     "full_name": "lightbend/microprofile-reactive-streams",
@@ -116,36 +116,36 @@
   {
     "full_name": "cashapp/pranadb",
     "stargazers_count": 577,
-    "open_issues_count": 73,
+    "open_issues_count": 71,
     "forks_count": 18
   },
   {
     "full_name": "tree-sitter/tree-sitter",
-    "stargazers_count": 9062,
+    "stargazers_count": 9070,
     "open_issues_count": 354,
-    "forks_count": 515
+    "forks_count": 516
   },
   {
     "full_name": "statsd/statsd",
-    "stargazers_count": 16544,
+    "stargazers_count": 16549,
     "open_issues_count": 84,
     "forks_count": 1981
   },
   {
     "full_name": "nsqio/nsq",
-    "stargazers_count": 21583,
+    "stargazers_count": 21584,
     "open_issues_count": 65,
     "forks_count": 2733
   },
   {
     "full_name": "binhnguyennus/awesome-scalability",
-    "stargazers_count": 39441,
+    "stargazers_count": 39451,
     "open_issues_count": 13,
-    "forks_count": 4611
+    "forks_count": 4612
   },
   {
     "full_name": "skytable/skytable",
-    "stargazers_count": 1109,
+    "stargazers_count": 1110,
     "open_issues_count": 15,
     "forks_count": 40
   },
@@ -157,25 +157,25 @@
   },
   {
     "full_name": "dragonflydb/dragonfly",
-    "stargazers_count": 8895,
+    "stargazers_count": 8902,
     "open_issues_count": 31,
     "forks_count": 169
   },
   {
     "full_name": "brettwooldridge/HikariCP",
-    "stargazers_count": 16984,
+    "stargazers_count": 16991,
     "open_issues_count": 411,
-    "forks_count": 2596
+    "forks_count": 2597
   },
   {
     "full_name": "multiprocessio/dsq",
-    "stargazers_count": 2531,
+    "stargazers_count": 2533,
     "open_issues_count": 11,
     "forks_count": 85
   },
   {
     "full_name": "erikgrinaker/toydb",
-    "stargazers_count": 3639,
+    "stargazers_count": 3642,
     "open_issues_count": 4,
     "forks_count": 303
   }
