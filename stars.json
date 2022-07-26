@@ -1,27 +1,39 @@
 [
   {
+    "full_name": "carbon-language/carbon-lang",
+    "stargazers_count": 18900,
+    "open_issues_count": 164,
+    "forks_count": 692
+  },
+  {
+    "full_name": "nodejs/llnode",
+    "stargazers_count": 993,
+    "open_issues_count": 64,
+    "forks_count": 106
+  },
+  {
     "full_name": "i-net-software/JWebAssembly",
-    "stargazers_count": 716,
+    "stargazers_count": 721,
     "open_issues_count": 13,
     "forks_count": 56
   },
   {
     "full_name": "g3n/engine",
-    "stargazers_count": 2060,
+    "stargazers_count": 2063,
     "open_issues_count": 32,
-    "forks_count": 200
+    "forks_count": 201
   },
   {
     "full_name": "bevyengine/bevy",
-    "stargazers_count": 17280,
-    "open_issues_count": 1085,
-    "forks_count": 1638
+    "stargazers_count": 17362,
+    "open_issues_count": 1109,
+    "forks_count": 1649
   },
   {
     "full_name": "svix/svix-webhooks",
-    "stargazers_count": 659,
+    "stargazers_count": 666,
     "open_issues_count": 26,
-    "forks_count": 40
+    "forks_count": 41
   },
   {
     "full_name": "AugustNagro/java-async-await",
@@ -37,15 +49,15 @@
   },
   {
     "full_name": "aphyr/distsys-class",
-    "stargazers_count": 8107,
+    "stargazers_count": 8112,
     "open_issues_count": 6,
-    "forks_count": 631
+    "forks_count": 633
   },
   {
     "full_name": "rsocket/rsocket-java",
     "stargazers_count": 2177,
     "open_issues_count": 36,
-    "forks_count": 332
+    "forks_count": 333
   },
   {
     "full_name": "atlassian-labs/nadel",
@@ -55,39 +67,39 @@
   },
   {
     "full_name": "krustlet/krustlet",
-    "stargazers_count": 2973,
+    "stargazers_count": 2975,
     "open_issues_count": 56,
     "forks_count": 197
   },
   {
     "full_name": "WebAssembly/component-model",
-    "stargazers_count": 154,
+    "stargazers_count": 158,
     "open_issues_count": 21,
     "forks_count": 17
   },
   {
     "full_name": "mirkosertic/Bytecoder",
     "stargazers_count": 575,
-    "open_issues_count": 34,
+    "open_issues_count": 35,
     "forks_count": 43
   },
   {
     "full_name": "konsoletyper/teavm",
-    "stargazers_count": 1978,
+    "stargazers_count": 1981,
     "open_issues_count": 155,
     "forks_count": 207
   },
   {
     "full_name": "appcypher/awesome-wasm-langs",
-    "stargazers_count": 3331,
+    "stargazers_count": 3337,
     "open_issues_count": 8,
     "forks_count": 150
   },
   {
     "full_name": "spacedriveapp/spacedrive",
-    "stargazers_count": 13272,
+    "stargazers_count": 13303,
     "open_issues_count": 50,
-    "forks_count": 336
+    "forks_count": 337
   },
   {
     "full_name": "lightbend/microprofile-reactive-streams",
@@ -128,55 +140,43 @@
   {
     "full_name": "googleapis/cloud-trace-nodejs",
     "stargazers_count": 263,
-    "open_issues_count": 30,
+    "open_issues_count": 26,
     "forks_count": 111
   },
   {
     "full_name": "cashapp/pranadb",
-    "stargazers_count": 578,
-    "open_issues_count": 73,
+    "stargazers_count": 577,
+    "open_issues_count": 76,
     "forks_count": 18
   },
   {
     "full_name": "tree-sitter/tree-sitter",
-    "stargazers_count": 9102,
-    "open_issues_count": 357,
-    "forks_count": 517
+    "stargazers_count": 9127,
+    "open_issues_count": 359,
+    "forks_count": 520
   },
   {
     "full_name": "statsd/statsd",
-    "stargazers_count": 16565,
+    "stargazers_count": 16566,
     "open_issues_count": 84,
     "forks_count": 1981
   },
   {
     "full_name": "nsqio/nsq",
-    "stargazers_count": 21615,
+    "stargazers_count": 21633,
     "open_issues_count": 65,
-    "forks_count": 2738
+    "forks_count": 2740
   },
   {
     "full_name": "binhnguyennus/awesome-scalability",
-    "stargazers_count": 39633,
+    "stargazers_count": 39707,
     "open_issues_count": 14,
-    "forks_count": 4638
+    "forks_count": 4648
   },
   {
     "full_name": "skytable/skytable",
-    "stargazers_count": 1129,
+    "stargazers_count": 1150,
     "open_issues_count": 16,
     "forks_count": 40
-  },
-  {
-    "full_name": "romange/helio",
-    "stargazers_count": 138,
-    "open_issues_count": 3,
-    "forks_count": 5
-  },
-  {
-    "full_name": "dragonflydb/dragonfly",
-    "stargazers_count": 9019,
-    "open_issues_count": 33,
-    "forks_count": 171
   }
 ]
