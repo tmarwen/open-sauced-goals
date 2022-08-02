@@ -1,68 +1,68 @@
 [
   {
     "full_name": "netdata/netdata",
-    "stargazers_count": 60084,
-    "open_issues_count": 256,
-    "forks_count": 5333
+    "stargazers_count": 60117,
+    "open_issues_count": 259,
+    "forks_count": 5337
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 90635,
-    "open_issues_count": 2448,
-    "forks_count": 33214
+    "stargazers_count": 90737,
+    "open_issues_count": 2447,
+    "forks_count": 33248
   },
   {
     "full_name": "chaos-mesh/chaos-mesh",
-    "stargazers_count": 5013,
-    "open_issues_count": 307,
-    "forks_count": 634
+    "stargazers_count": 5037,
+    "open_issues_count": 303,
+    "forks_count": 638
   },
   {
     "full_name": "apache/dubbo-go",
-    "stargazers_count": 4135,
+    "stargazers_count": 4143,
     "open_issues_count": 49,
-    "forks_count": 752
+    "forks_count": 755
   },
   {
     "full_name": "apache/camel-k",
     "stargazers_count": 710,
-    "open_issues_count": 224,
+    "open_issues_count": 226,
     "forks_count": 274
   },
   {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 22033,
-    "open_issues_count": 181,
-    "forks_count": 842
+    "stargazers_count": 23725,
+    "open_issues_count": 176,
+    "forks_count": 924
   },
   {
     "full_name": "nodejs/llnode",
     "stargazers_count": 995,
     "open_issues_count": 66,
-    "forks_count": 106
+    "forks_count": 107
   },
   {
     "full_name": "i-net-software/JWebAssembly",
-    "stargazers_count": 728,
+    "stargazers_count": 731,
     "open_issues_count": 14,
     "forks_count": 57
   },
   {
     "full_name": "g3n/engine",
-    "stargazers_count": 2065,
+    "stargazers_count": 2082,
     "open_issues_count": 32,
     "forks_count": 200
   },
   {
     "full_name": "bevyengine/bevy",
-    "stargazers_count": 17422,
-    "open_issues_count": 1120,
-    "forks_count": 1654
+    "stargazers_count": 17618,
+    "open_issues_count": 1155,
+    "forks_count": 1662
   },
   {
     "full_name": "svix/svix-webhooks",
     "stargazers_count": 674,
-    "open_issues_count": 25,
+    "open_issues_count": 27,
     "forks_count": 42
   },
   {
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "vert-x3/vertx-virtual-threads-incubator",
-    "stargazers_count": 34,
+    "stargazers_count": 41,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "aphyr/distsys-class",
-    "stargazers_count": 8117,
+    "stargazers_count": 8119,
     "open_issues_count": 6,
-    "forks_count": 633
+    "forks_count": 634
   },
   {
     "full_name": "rsocket/rsocket-java",
@@ -97,13 +97,13 @@
   },
   {
     "full_name": "krustlet/krustlet",
-    "stargazers_count": 2981,
+    "stargazers_count": 2987,
     "open_issues_count": 56,
     "forks_count": 196
   },
   {
     "full_name": "WebAssembly/component-model",
-    "stargazers_count": 166,
+    "stargazers_count": 169,
     "open_issues_count": 25,
     "forks_count": 18
   },
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "konsoletyper/teavm",
-    "stargazers_count": 1984,
-    "open_issues_count": 156,
+    "stargazers_count": 1988,
+    "open_issues_count": 158,
     "forks_count": 207
   },
   {
     "full_name": "appcypher/awesome-wasm-langs",
-    "stargazers_count": 3340,
+    "stargazers_count": 3342,
     "open_issues_count": 8,
     "forks_count": 150
   },
   {
     "full_name": "spacedriveapp/spacedrive",
-    "stargazers_count": 13317,
-    "open_issues_count": 49,
-    "forks_count": 337
+    "stargazers_count": 13350,
+    "open_issues_count": 50,
+    "forks_count": 339
   },
   {
     "full_name": "lightbend/microprofile-reactive-streams",
@@ -146,7 +146,7 @@
   {
     "full_name": "smallrye/smallrye-mutiny-vertx-bindings",
     "stargazers_count": 57,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 20
   },
   {
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "w3c/trace-context",
-    "stargazers_count": 390,
+    "stargazers_count": 391,
     "open_issues_count": 19,
     "forks_count": 77
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "cashapp/pranadb",
-    "stargazers_count": 577,
-    "open_issues_count": 76,
+    "stargazers_count": 578,
+    "open_issues_count": 78,
     "forks_count": 18
   }
 ]
