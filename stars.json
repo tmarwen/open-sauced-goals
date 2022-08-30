@@ -3,7 +3,7 @@
     "full_name": "ReactiveX/RxGo",
     "stargazers_count": 4290,
     "open_issues_count": 41,
-    "forks_count": 312
+    "forks_count": 313
   },
   {
     "full_name": "Alethio/web3-multicall-go",
@@ -13,39 +13,39 @@
   },
   {
     "full_name": "netdata/netdata",
-    "stargazers_count": 60388,
-    "open_issues_count": 214,
-    "forks_count": 5357
+    "stargazers_count": 60446,
+    "open_issues_count": 222,
+    "forks_count": 5364
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 91470,
-    "open_issues_count": 2399,
-    "forks_count": 33525
+    "stargazers_count": 91583,
+    "open_issues_count": 2393,
+    "forks_count": 33568
   },
   {
     "full_name": "chaos-mesh/chaos-mesh",
-    "stargazers_count": 5118,
-    "open_issues_count": 294,
+    "stargazers_count": 5131,
+    "open_issues_count": 290,
     "forks_count": 648
   },
   {
     "full_name": "apache/dubbo-go",
-    "stargazers_count": 4173,
-    "open_issues_count": 52,
+    "stargazers_count": 4174,
+    "open_issues_count": 51,
     "forks_count": 759
   },
   {
     "full_name": "apache/camel-k",
-    "stargazers_count": 713,
-    "open_issues_count": 211,
-    "forks_count": 276
+    "stargazers_count": 712,
+    "open_issues_count": 215,
+    "forks_count": 278
   },
   {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 26534,
-    "open_issues_count": 204,
-    "forks_count": 1101
+    "stargazers_count": 26745,
+    "open_issues_count": 205,
+    "forks_count": 1112
   },
   {
     "full_name": "nodejs/llnode",
@@ -55,26 +55,26 @@
   },
   {
     "full_name": "i-net-software/JWebAssembly",
-    "stargazers_count": 744,
+    "stargazers_count": 750,
     "open_issues_count": 15,
     "forks_count": 57
   },
   {
     "full_name": "g3n/engine",
-    "stargazers_count": 2109,
+    "stargazers_count": 2113,
     "open_issues_count": 33,
     "forks_count": 202
   },
   {
     "full_name": "bevyengine/bevy",
-    "stargazers_count": 18164,
-    "open_issues_count": 1245,
-    "forks_count": 1726
+    "stargazers_count": 18227,
+    "open_issues_count": 1255,
+    "forks_count": 1736
   },
   {
     "full_name": "svix/svix-webhooks",
-    "stargazers_count": 695,
-    "open_issues_count": 31,
+    "stargazers_count": 696,
+    "open_issues_count": 33,
     "forks_count": 46
   },
   {
@@ -87,17 +87,17 @@
     "full_name": "vert-x3/vertx-virtual-threads-incubator",
     "stargazers_count": 61,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "aphyr/distsys-class",
-    "stargazers_count": 8142,
+    "stargazers_count": 8147,
     "open_issues_count": 6,
     "forks_count": 636
   },
   {
     "full_name": "rsocket/rsocket-java",
-    "stargazers_count": 2193,
+    "stargazers_count": 2195,
     "open_issues_count": 37,
     "forks_count": 334
   },
@@ -109,39 +109,39 @@
   },
   {
     "full_name": "krustlet/krustlet",
-    "stargazers_count": 3019,
+    "stargazers_count": 3023,
     "open_issues_count": 59,
     "forks_count": 199
   },
   {
     "full_name": "WebAssembly/component-model",
-    "stargazers_count": 181,
-    "open_issues_count": 16,
+    "stargazers_count": 182,
+    "open_issues_count": 17,
     "forks_count": 22
   },
   {
     "full_name": "mirkosertic/Bytecoder",
-    "stargazers_count": 587,
+    "stargazers_count": 589,
     "open_issues_count": 40,
     "forks_count": 43
   },
   {
     "full_name": "konsoletyper/teavm",
-    "stargazers_count": 2016,
+    "stargazers_count": 2021,
     "open_issues_count": 156,
     "forks_count": 211
   },
   {
     "full_name": "appcypher/awesome-wasm-langs",
-    "stargazers_count": 3380,
-    "open_issues_count": 9,
-    "forks_count": 152
+    "stargazers_count": 3385,
+    "open_issues_count": 10,
+    "forks_count": 153
   },
   {
     "full_name": "spacedriveapp/spacedrive",
-    "stargazers_count": 13567,
-    "open_issues_count": 54,
-    "forks_count": 349
+    "stargazers_count": 13615,
+    "open_issues_count": 52,
+    "forks_count": 350
   },
   {
     "full_name": "lightbend/microprofile-reactive-streams",
