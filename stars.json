@@ -1,9 +1,9 @@
 [
   {
     "full_name": "ReactiveX/RxGo",
-    "stargazers_count": 4300,
-    "open_issues_count": 36,
-    "forks_count": 313
+    "stargazers_count": 4306,
+    "open_issues_count": 37,
+    "forks_count": 314
   },
   {
     "full_name": "Alethio/web3-multicall-go",
@@ -13,39 +13,39 @@
   },
   {
     "full_name": "netdata/netdata",
-    "stargazers_count": 60522,
+    "stargazers_count": 60558,
     "open_issues_count": 232,
-    "forks_count": 5373
+    "forks_count": 5377
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 91784,
-    "open_issues_count": 2428,
-    "forks_count": 33634
+    "stargazers_count": 91872,
+    "open_issues_count": 2438,
+    "forks_count": 33671
   },
   {
     "full_name": "chaos-mesh/chaos-mesh",
-    "stargazers_count": 5142,
+    "stargazers_count": 5152,
     "open_issues_count": 294,
     "forks_count": 649
   },
   {
     "full_name": "apache/dubbo-go",
-    "stargazers_count": 4185,
-    "open_issues_count": 50,
-    "forks_count": 761
+    "stargazers_count": 4188,
+    "open_issues_count": 53,
+    "forks_count": 762
   },
   {
     "full_name": "apache/camel-k",
-    "stargazers_count": 715,
-    "open_issues_count": 211,
-    "forks_count": 278
+    "stargazers_count": 718,
+    "open_issues_count": 198,
+    "forks_count": 279
   },
   {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 27028,
-    "open_issues_count": 215,
-    "forks_count": 1128
+    "stargazers_count": 27154,
+    "open_issues_count": 211,
+    "forks_count": 1131
   },
   {
     "full_name": "nodejs/llnode",
@@ -55,25 +55,25 @@
   },
   {
     "full_name": "i-net-software/JWebAssembly",
-    "stargazers_count": 756,
+    "stargazers_count": 759,
     "open_issues_count": 15,
-    "forks_count": 58
+    "forks_count": 57
   },
   {
     "full_name": "g3n/engine",
-    "stargazers_count": 2121,
+    "stargazers_count": 2124,
     "open_issues_count": 34,
     "forks_count": 203
   },
   {
     "full_name": "bevyengine/bevy",
-    "stargazers_count": 18371,
-    "open_issues_count": 1249,
-    "forks_count": 1760
+    "stargazers_count": 18428,
+    "open_issues_count": 1252,
+    "forks_count": 1767
   },
   {
     "full_name": "svix/svix-webhooks",
-    "stargazers_count": 698,
+    "stargazers_count": 703,
     "open_issues_count": 32,
     "forks_count": 50
   },
@@ -91,13 +91,13 @@
   },
   {
     "full_name": "aphyr/distsys-class",
-    "stargazers_count": 8158,
+    "stargazers_count": 8162,
     "open_issues_count": 6,
-    "forks_count": 637
+    "forks_count": 638
   },
   {
     "full_name": "rsocket/rsocket-java",
-    "stargazers_count": 2199,
+    "stargazers_count": 2200,
     "open_issues_count": 41,
     "forks_count": 335
   },
@@ -109,39 +109,39 @@
   },
   {
     "full_name": "krustlet/krustlet",
-    "stargazers_count": 3038,
+    "stargazers_count": 3041,
     "open_issues_count": 59,
     "forks_count": 201
   },
   {
     "full_name": "WebAssembly/component-model",
-    "stargazers_count": 186,
-    "open_issues_count": 20,
+    "stargazers_count": 190,
+    "open_issues_count": 21,
     "forks_count": 22
   },
   {
     "full_name": "mirkosertic/Bytecoder",
     "stargazers_count": 591,
-    "open_issues_count": 38,
-    "forks_count": 44
+    "open_issues_count": 39,
+    "forks_count": 45
   },
   {
     "full_name": "konsoletyper/teavm",
-    "stargazers_count": 2027,
-    "open_issues_count": 157,
+    "stargazers_count": 2028,
+    "open_issues_count": 156,
     "forks_count": 212
   },
   {
     "full_name": "appcypher/awesome-wasm-langs",
-    "stargazers_count": 3395,
-    "open_issues_count": 6,
-    "forks_count": 152
+    "stargazers_count": 3398,
+    "open_issues_count": 7,
+    "forks_count": 153
   },
   {
     "full_name": "spacedriveapp/spacedrive",
-    "stargazers_count": 13787,
-    "open_issues_count": 45,
-    "forks_count": 356
+    "stargazers_count": 13866,
+    "open_issues_count": 43,
+    "forks_count": 360
   },
   {
     "full_name": "lightbend/microprofile-reactive-streams",
