@@ -1,8 +1,8 @@
 [
   {
     "full_name": "ReactiveX/RxGo",
-    "stargazers_count": 4327,
-    "open_issues_count": 37,
+    "stargazers_count": 4330,
+    "open_issues_count": 38,
     "forks_count": 314
   },
   {
@@ -13,39 +13,39 @@
   },
   {
     "full_name": "netdata/netdata",
-    "stargazers_count": 60794,
-    "open_issues_count": 261,
-    "forks_count": 5386
+    "stargazers_count": 60809,
+    "open_issues_count": 266,
+    "forks_count": 5385
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 92552,
-    "open_issues_count": 2375,
-    "forks_count": 33944
+    "stargazers_count": 92632,
+    "open_issues_count": 2374,
+    "forks_count": 33979
   },
   {
     "full_name": "chaos-mesh/chaos-mesh",
-    "stargazers_count": 5199,
-    "open_issues_count": 279,
-    "forks_count": 657
+    "stargazers_count": 5206,
+    "open_issues_count": 273,
+    "forks_count": 656
   },
   {
     "full_name": "apache/dubbo-go",
-    "stargazers_count": 4212,
+    "stargazers_count": 4213,
     "open_issues_count": 50,
     "forks_count": 773
   },
   {
     "full_name": "apache/camel-k",
-    "stargazers_count": 727,
-    "open_issues_count": 192,
-    "forks_count": 282
+    "stargazers_count": 728,
+    "open_issues_count": 191,
+    "forks_count": 283
   },
   {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 27959,
-    "open_issues_count": 207,
-    "forks_count": 1161
+    "stargazers_count": 28004,
+    "open_issues_count": 206,
+    "forks_count": 1167
   },
   {
     "full_name": "nodejs/llnode",
@@ -61,19 +61,19 @@
   },
   {
     "full_name": "g3n/engine",
-    "stargazers_count": 2149,
+    "stargazers_count": 2153,
     "open_issues_count": 34,
     "forks_count": 203
   },
   {
     "full_name": "bevyengine/bevy",
-    "stargazers_count": 18941,
-    "open_issues_count": 1302,
-    "forks_count": 1855
+    "stargazers_count": 18993,
+    "open_issues_count": 1308,
+    "forks_count": 1862
   },
   {
     "full_name": "svix/svix-webhooks",
-    "stargazers_count": 736,
+    "stargazers_count": 739,
     "open_issues_count": 33,
     "forks_count": 50
   },
@@ -85,13 +85,13 @@
   },
   {
     "full_name": "vert-x3/vertx-virtual-threads-incubator",
-    "stargazers_count": 69,
+    "stargazers_count": 70,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "aphyr/distsys-class",
-    "stargazers_count": 8181,
+    "stargazers_count": 8180,
     "open_issues_count": 6,
     "forks_count": 638
   },
@@ -104,44 +104,44 @@
   {
     "full_name": "atlassian-labs/nadel",
     "stargazers_count": 148,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "forks_count": 20
   },
   {
     "full_name": "krustlet/krustlet",
-    "stargazers_count": 3090,
+    "stargazers_count": 3093,
     "open_issues_count": 59,
     "forks_count": 202
   },
   {
     "full_name": "WebAssembly/component-model",
-    "stargazers_count": 213,
+    "stargazers_count": 214,
     "open_issues_count": 22,
     "forks_count": 26
   },
   {
     "full_name": "mirkosertic/Bytecoder",
-    "stargazers_count": 599,
+    "stargazers_count": 601,
     "open_issues_count": 44,
-    "forks_count": 47
+    "forks_count": 48
   },
   {
     "full_name": "konsoletyper/teavm",
-    "stargazers_count": 2046,
-    "open_issues_count": 162,
-    "forks_count": 217
+    "stargazers_count": 2045,
+    "open_issues_count": 161,
+    "forks_count": 218
   },
   {
     "full_name": "appcypher/awesome-wasm-langs",
-    "stargazers_count": 3449,
+    "stargazers_count": 3456,
     "open_issues_count": 10,
     "forks_count": 159
   },
   {
     "full_name": "spacedriveapp/spacedrive",
-    "stargazers_count": 14291,
-    "open_issues_count": 34,
-    "forks_count": 368
+    "stargazers_count": 14346,
+    "open_issues_count": 35,
+    "forks_count": 373
   },
   {
     "full_name": "lightbend/microprofile-reactive-streams",
@@ -158,7 +158,7 @@
   {
     "full_name": "smallrye/smallrye-mutiny-vertx-bindings",
     "stargazers_count": 62,
-    "open_issues_count": 7,
+    "open_issues_count": 6,
     "forks_count": 21
   },
   {
