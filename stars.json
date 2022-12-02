@@ -1,15 +1,57 @@
 [
   {
+    "full_name": "bluesky-social/atproto",
+    "stargazers_count": 2267,
+    "open_issues_count": 36,
+    "forks_count": 115
+  },
+  {
+    "full_name": "gnolang/gno",
+    "stargazers_count": 608,
+    "open_issues_count": 59,
+    "forks_count": 235
+  },
+  {
+    "full_name": "berty/go-orbit-db",
+    "stargazers_count": 286,
+    "open_issues_count": 9,
+    "forks_count": 44
+  },
+  {
+    "full_name": "neurodrone/crdt",
+    "stargazers_count": 227,
+    "open_issues_count": 8,
+    "forks_count": 23
+  },
+  {
+    "full_name": "rust-crdt/rust-crdt",
+    "stargazers_count": 1021,
+    "open_issues_count": 17,
+    "forks_count": 46
+  },
+  {
+    "full_name": "berty/berty",
+    "stargazers_count": 6334,
+    "open_issues_count": 141,
+    "forks_count": 294
+  },
+  {
+    "full_name": "automerge/automerge",
+    "stargazers_count": 14104,
+    "open_issues_count": 72,
+    "forks_count": 4057
+  },
+  {
     "full_name": "rivo/tview",
-    "stargazers_count": 7638,
-    "open_issues_count": 74,
-    "forks_count": 441
+    "stargazers_count": 7649,
+    "open_issues_count": 75,
+    "forks_count": 442
   },
   {
     "full_name": "quarkiverse/quarkus-renarde",
     "stargazers_count": 42,
     "open_issues_count": 29,
-    "forks_count": 9
+    "forks_count": 11
   },
   {
     "full_name": "DistributedClocks/GoVector",
@@ -37,9 +79,9 @@
   },
   {
     "full_name": "terrastruct/d2",
-    "stargazers_count": 6859,
-    "open_issues_count": 96,
-    "forks_count": 89
+    "stargazers_count": 7327,
+    "open_issues_count": 104,
+    "forks_count": 95
   },
   {
     "full_name": "marcusolsson/gophers",
@@ -49,21 +91,21 @@
   },
   {
     "full_name": "Eugeny/tabby",
-    "stargazers_count": 40980,
-    "open_issues_count": 1151,
-    "forks_count": 2511
+    "stargazers_count": 41092,
+    "open_issues_count": 1155,
+    "forks_count": 2522
   },
   {
     "full_name": "marcusolsson/tui-go",
     "stargazers_count": 2069,
     "open_issues_count": 30,
-    "forks_count": 121
+    "forks_count": 122
   },
   {
     "full_name": "mourner/rbush",
     "stargazers_count": 2076,
     "open_issues_count": 13,
-    "forks_count": 219
+    "forks_count": 220
   },
   {
     "full_name": "microsoftgraph/msgraph-sdk-design",
@@ -73,21 +115,21 @@
   },
   {
     "full_name": "teivah/designdeck",
-    "stargazers_count": 102,
+    "stargazers_count": 104,
     "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 120637,
-    "open_issues_count": 200,
-    "forks_count": 12350
+    "stargazers_count": 121075,
+    "open_issues_count": 201,
+    "forks_count": 12386
   },
   {
     "full_name": "nushell/nushell",
-    "stargazers_count": 22031,
-    "open_issues_count": 616,
-    "forks_count": 1075
+    "stargazers_count": 22076,
+    "open_issues_count": 595,
+    "forks_count": 1077
   },
   {
     "full_name": "crypt1d/redi.sh",
@@ -97,33 +139,33 @@
   },
   {
     "full_name": "cilium/cilium",
-    "stargazers_count": 13640,
-    "open_issues_count": 957,
-    "forks_count": 1908
+    "stargazers_count": 13665,
+    "open_issues_count": 978,
+    "forks_count": 1911
   },
   {
     "full_name": "lapce/lapce",
-    "stargazers_count": 20686,
-    "open_issues_count": 462,
-    "forks_count": 592
+    "stargazers_count": 20772,
+    "open_issues_count": 465,
+    "forks_count": 595
   },
   {
     "full_name": "home-assistant/core",
-    "stargazers_count": 56314,
-    "open_issues_count": 2149,
-    "forks_count": 20681
+    "stargazers_count": 56376,
+    "open_issues_count": 2138,
+    "forks_count": 20732
   },
   {
     "full_name": "obsproject/obs-studio",
-    "stargazers_count": 43274,
-    "open_issues_count": 643,
-    "forks_count": 6447
+    "stargazers_count": 43336,
+    "open_issues_count": 639,
+    "forks_count": 6462
   },
   {
     "full_name": "ReactiveX/RxGo",
-    "stargazers_count": 4409,
+    "stargazers_count": 4410,
     "open_issues_count": 45,
-    "forks_count": 316
+    "forks_count": 315
   },
   {
     "full_name": "Alethio/web3-multicall-go",
@@ -133,50 +175,8 @@
   },
   {
     "full_name": "netdata/netdata",
-    "stargazers_count": 61307,
-    "open_issues_count": 267,
-    "forks_count": 5406
-  },
-  {
-    "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 94070,
-    "open_issues_count": 2495,
-    "forks_count": 34509
-  },
-  {
-    "full_name": "chaos-mesh/chaos-mesh",
-    "stargazers_count": 5347,
-    "open_issues_count": 285,
-    "forks_count": 675
-  },
-  {
-    "full_name": "apache/dubbo-go",
-    "stargazers_count": 4279,
-    "open_issues_count": 56,
-    "forks_count": 795
-  },
-  {
-    "full_name": "apache/camel-k",
-    "stargazers_count": 737,
-    "open_issues_count": 202,
-    "forks_count": 294
-  },
-  {
-    "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 28842,
-    "open_issues_count": 185,
-    "forks_count": 1205
-  },
-  {
-    "full_name": "nodejs/llnode",
-    "stargazers_count": 1038,
-    "open_issues_count": 62,
-    "forks_count": 110
-  },
-  {
-    "full_name": "i-net-software/JWebAssembly",
-    "stargazers_count": 801,
-    "open_issues_count": 16,
-    "forks_count": 59
+    "stargazers_count": 61328,
+    "open_issues_count": 272,
+    "forks_count": 5407
   }
 ]
