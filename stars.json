@@ -7,15 +7,15 @@
   },
   {
     "full_name": "grpc/grpc-web",
-    "stargazers_count": 7194,
+    "stargazers_count": 7202,
     "open_issues_count": 216,
-    "forks_count": 703
+    "forks_count": 705
   },
   {
     "full_name": "redhat-helloworld-msa/helloworld-msa",
-    "stargazers_count": 225,
+    "stargazers_count": 226,
     "open_issues_count": 3,
-    "forks_count": 159
+    "forks_count": 160
   },
   {
     "full_name": "1kc/librazermacos",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "1kc/razer-macos",
-    "stargazers_count": 1690,
-    "open_issues_count": 376,
-    "forks_count": 184
+    "stargazers_count": 1697,
+    "open_issues_count": 377,
+    "forks_count": 186
   },
   {
     "full_name": "boyter/searchcode-server",
@@ -37,51 +37,51 @@
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 2301,
-    "open_issues_count": 40,
-    "forks_count": 120
+    "stargazers_count": 2306,
+    "open_issues_count": 46,
+    "forks_count": 121
   },
   {
     "full_name": "gnolang/gno",
     "stargazers_count": 619,
-    "open_issues_count": 75,
+    "open_issues_count": 76,
     "forks_count": 241
   },
   {
     "full_name": "berty/go-orbit-db",
-    "stargazers_count": 293,
+    "stargazers_count": 294,
     "open_issues_count": 8,
     "forks_count": 45
   },
   {
     "full_name": "neurodrone/crdt",
-    "stargazers_count": 228,
+    "stargazers_count": 229,
     "open_issues_count": 8,
     "forks_count": 23
   },
   {
     "full_name": "rust-crdt/rust-crdt",
-    "stargazers_count": 1032,
+    "stargazers_count": 1034,
     "open_issues_count": 17,
     "forks_count": 46
   },
   {
     "full_name": "berty/berty",
-    "stargazers_count": 6388,
-    "open_issues_count": 148,
-    "forks_count": 300
+    "stargazers_count": 6397,
+    "open_issues_count": 150,
+    "forks_count": 302
   },
   {
     "full_name": "automerge/automerge",
-    "stargazers_count": 14183,
+    "stargazers_count": 14239,
     "open_issues_count": 73,
-    "forks_count": 4061
+    "forks_count": 4062
   },
   {
     "full_name": "rivo/tview",
-    "stargazers_count": 7749,
-    "open_issues_count": 66,
-    "forks_count": 448
+    "stargazers_count": 7778,
+    "open_issues_count": 69,
+    "forks_count": 449
   },
   {
     "full_name": "quarkiverse/quarkus-renarde",
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "terrastruct/d2",
-    "stargazers_count": 8192,
-    "open_issues_count": 127,
-    "forks_count": 116
+    "stargazers_count": 9237,
+    "open_issues_count": 132,
+    "forks_count": 135
   },
   {
     "full_name": "marcusolsson/gophers",
-    "stargazers_count": 123,
+    "stargazers_count": 127,
     "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "Eugeny/tabby",
-    "stargazers_count": 41569,
-    "open_issues_count": 1187,
-    "forks_count": 2545
+    "stargazers_count": 41731,
+    "open_issues_count": 1197,
+    "forks_count": 2557
   },
   {
     "full_name": "marcusolsson/tui-go",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "mourner/rbush",
-    "stargazers_count": 2087,
+    "stargazers_count": 2091,
     "open_issues_count": 13,
-    "forks_count": 220
+    "forks_count": 221
   },
   {
     "full_name": "microsoftgraph/msgraph-sdk-design",
@@ -157,15 +157,15 @@
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 122812,
+    "stargazers_count": 123160,
     "open_issues_count": 208,
-    "forks_count": 12535
+    "forks_count": 12564
   },
   {
     "full_name": "nushell/nushell",
-    "stargazers_count": 22247,
-    "open_issues_count": 610,
-    "forks_count": 1085
+    "stargazers_count": 22311,
+    "open_issues_count": 608,
+    "forks_count": 1087
   },
   {
     "full_name": "crypt1d/redi.sh",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "cilium/cilium",
-    "stargazers_count": 13817,
+    "stargazers_count": 13884,
     "open_issues_count": 1024,
-    "forks_count": 1937
+    "forks_count": 1947
   }
 ]
