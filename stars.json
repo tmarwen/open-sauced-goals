@@ -1,25 +1,25 @@
 [
   {
     "full_name": "cube-js/cube.js",
-    "stargazers_count": 14642,
-    "open_issues_count": 725,
-    "forks_count": 1510
+    "stargazers_count": 14668,
+    "open_issues_count": 727,
+    "forks_count": 1511
   },
   {
     "full_name": "grafana/tempo",
-    "stargazers_count": 2817,
+    "stargazers_count": 2828,
     "open_issues_count": 121,
-    "forks_count": 345
+    "forks_count": 347
   },
   {
     "full_name": "grafana/loki",
-    "stargazers_count": 18441,
-    "open_issues_count": 794,
-    "forks_count": 2577
+    "stargazers_count": 18472,
+    "open_issues_count": 820,
+    "forks_count": 2588
   },
   {
     "full_name": "keichi/binary-parser",
-    "stargazers_count": 672,
+    "stargazers_count": 673,
     "open_issues_count": 39,
     "forks_count": 126
   },
@@ -31,21 +31,21 @@
   },
   {
     "full_name": "ethereum-optimism/optimism",
-    "stargazers_count": 3408,
-    "open_issues_count": 101,
-    "forks_count": 1360
+    "stargazers_count": 3461,
+    "open_issues_count": 102,
+    "forks_count": 1397
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 70093,
-    "open_issues_count": 18,
-    "forks_count": 5113
+    "stargazers_count": 70196,
+    "open_issues_count": 19,
+    "forks_count": 5115
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 10192,
-    "open_issues_count": 59,
-    "forks_count": 466
+    "stargazers_count": 10534,
+    "open_issues_count": 58,
+    "forks_count": 481
   },
   {
     "full_name": "software-jessies-org/jessies",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "grpc/grpc-web",
-    "stargazers_count": 7361,
+    "stargazers_count": 7375,
     "open_issues_count": 215,
     "forks_count": 718
   },
@@ -73,8 +73,8 @@
   },
   {
     "full_name": "1kc/razer-macos",
-    "stargazers_count": 1788,
-    "open_issues_count": 408,
+    "stargazers_count": 1793,
+    "open_issues_count": 410,
     "forks_count": 194
   },
   {
@@ -85,20 +85,20 @@
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 2476,
-    "open_issues_count": 93,
-    "forks_count": 131
+    "stargazers_count": 2540,
+    "open_issues_count": 96,
+    "forks_count": 138
   },
   {
     "full_name": "gnolang/gno",
     "stargazers_count": 648,
-    "open_issues_count": 109,
-    "forks_count": 266
+    "open_issues_count": 106,
+    "forks_count": 268
   },
   {
     "full_name": "berty/go-orbit-db",
-    "stargazers_count": 312,
-    "open_issues_count": 17,
+    "stargazers_count": 311,
+    "open_issues_count": 18,
     "forks_count": 48
   },
   {
@@ -109,27 +109,27 @@
   },
   {
     "full_name": "rust-crdt/rust-crdt",
-    "stargazers_count": 1062,
-    "open_issues_count": 17,
+    "stargazers_count": 1066,
+    "open_issues_count": 18,
     "forks_count": 48
   },
   {
     "full_name": "berty/berty",
-    "stargazers_count": 6616,
-    "open_issues_count": 131,
+    "stargazers_count": 6617,
+    "open_issues_count": 129,
     "forks_count": 318
   },
   {
     "full_name": "automerge/automerge-classic",
-    "stargazers_count": 14777,
+    "stargazers_count": 14780,
     "open_issues_count": 76,
-    "forks_count": 4078
+    "forks_count": 4080
   },
   {
     "full_name": "rivo/tview",
-    "stargazers_count": 8007,
-    "open_issues_count": 83,
-    "forks_count": 464
+    "stargazers_count": 8021,
+    "open_issues_count": 84,
+    "forks_count": 466
   },
   {
     "full_name": "quarkiverse/quarkus-renarde",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "terrastruct/d2",
-    "stargazers_count": 11150,
-    "open_issues_count": 229,
-    "forks_count": 208
+    "stargazers_count": 11209,
+    "open_issues_count": 236,
+    "forks_count": 209
   },
   {
     "full_name": "marcusolsson/gophers",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "Eugeny/tabby",
-    "stargazers_count": 43582,
-    "open_issues_count": 1296,
-    "forks_count": 2657
+    "stargazers_count": 43722,
+    "open_issues_count": 1300,
+    "forks_count": 2663
   }
 ]
