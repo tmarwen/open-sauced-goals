@@ -1,21 +1,21 @@
 [
   {
     "full_name": "cube-js/cube",
-    "stargazers_count": 14939,
-    "open_issues_count": 745,
-    "forks_count": 1537
+    "stargazers_count": 14968,
+    "open_issues_count": 744,
+    "forks_count": 1540
   },
   {
     "full_name": "grafana/tempo",
-    "stargazers_count": 2922,
-    "open_issues_count": 151,
-    "forks_count": 367
+    "stargazers_count": 2929,
+    "open_issues_count": 143,
+    "forks_count": 368
   },
   {
     "full_name": "grafana/loki",
-    "stargazers_count": 18858,
-    "open_issues_count": 922,
-    "forks_count": 2679
+    "stargazers_count": 18898,
+    "open_issues_count": 952,
+    "forks_count": 2687
   },
   {
     "full_name": "keichi/binary-parser",
@@ -31,21 +31,21 @@
   },
   {
     "full_name": "ethereum-optimism/optimism",
-    "stargazers_count": 3734,
-    "open_issues_count": 120,
-    "forks_count": 1501
+    "stargazers_count": 3773,
+    "open_issues_count": 114,
+    "forks_count": 1510
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 71483,
+    "stargazers_count": 71594,
     "open_issues_count": 14,
-    "forks_count": 5147
+    "forks_count": 5149
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 11579,
-    "open_issues_count": 62,
-    "forks_count": 535
+    "stargazers_count": 11627,
+    "open_issues_count": 66,
+    "forks_count": 538
   },
   {
     "full_name": "software-jessies-org/jessies",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "grpc/grpc-web",
-    "stargazers_count": 7495,
+    "stargazers_count": 7502,
     "open_issues_count": 213,
-    "forks_count": 731
+    "forks_count": 733
   },
   {
     "full_name": "redhat-helloworld-msa/helloworld-msa",
@@ -69,13 +69,13 @@
     "full_name": "1kc/librazermacos",
     "stargazers_count": 17,
     "open_issues_count": 20,
-    "forks_count": 32
+    "forks_count": 31
   },
   {
     "full_name": "1kc/razer-macos",
-    "stargazers_count": 1850,
-    "open_issues_count": 420,
-    "forks_count": 204
+    "stargazers_count": 1857,
+    "open_issues_count": 421,
+    "forks_count": 203
   },
   {
     "full_name": "boyter/searchcode-server",
@@ -85,20 +85,20 @@
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 2918,
-    "open_issues_count": 74,
-    "forks_count": 178
+    "stargazers_count": 3159,
+    "open_issues_count": 79,
+    "forks_count": 192
   },
   {
     "full_name": "gnolang/gno",
     "stargazers_count": 725,
-    "open_issues_count": 174,
-    "forks_count": 278
+    "open_issues_count": 177,
+    "forks_count": 277
   },
   {
     "full_name": "berty/go-orbit-db",
-    "stargazers_count": 326,
-    "open_issues_count": 16,
+    "stargazers_count": 328,
+    "open_issues_count": 9,
     "forks_count": 46
   },
   {
@@ -109,27 +109,27 @@
   },
   {
     "full_name": "rust-crdt/rust-crdt",
-    "stargazers_count": 1102,
+    "stargazers_count": 1105,
     "open_issues_count": 18,
     "forks_count": 50
   },
   {
     "full_name": "berty/berty",
-    "stargazers_count": 6705,
-    "open_issues_count": 120,
+    "stargazers_count": 6711,
+    "open_issues_count": 118,
     "forks_count": 325
   },
   {
     "full_name": "automerge/automerge-classic",
-    "stargazers_count": 14782,
+    "stargazers_count": 14780,
     "open_issues_count": 77,
-    "forks_count": 4079
+    "forks_count": 4080
   },
   {
     "full_name": "rivo/tview",
-    "stargazers_count": 8230,
+    "stargazers_count": 8241,
     "open_issues_count": 89,
-    "forks_count": 478
+    "forks_count": 479
   },
   {
     "full_name": "quarkiverse/quarkus-renarde",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "terrastruct/d2",
-    "stargazers_count": 13127,
-    "open_issues_count": 240,
-    "forks_count": 278
+    "stargazers_count": 13191,
+    "open_issues_count": 244,
+    "forks_count": 279
   },
   {
     "full_name": "marcusolsson/gophers",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "Eugeny/tabby",
-    "stargazers_count": 45012,
-    "open_issues_count": 1381,
-    "forks_count": 2717
+    "stargazers_count": 45171,
+    "open_issues_count": 1387,
+    "forks_count": 2731
   }
 ]
