@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "Envoy-VC/blockend-developer-roadmap",
+    "stargazers_count": 332,
+    "open_issues_count": 0,
+    "forks_count": 70
+  },
+  {
     "full_name": "golang-standards/project-layout",
-    "stargazers_count": 39849,
+    "stargazers_count": 39901,
     "open_issues_count": 109,
-    "forks_count": 4452
+    "forks_count": 4460
   },
   {
     "full_name": "devnw/gvm",
@@ -13,27 +19,27 @@
   },
   {
     "full_name": "golang/mock",
-    "stargazers_count": 8930,
-    "open_issues_count": 85,
-    "forks_count": 615
+    "stargazers_count": 8942,
+    "open_issues_count": 87,
+    "forks_count": 616
   },
   {
     "full_name": "cube-js/cube",
-    "stargazers_count": 15647,
-    "open_issues_count": 759,
+    "stargazers_count": 15689,
+    "open_issues_count": 764,
     "forks_count": 1572
   },
   {
     "full_name": "grafana/tempo",
-    "stargazers_count": 3023,
-    "open_issues_count": 137,
+    "stargazers_count": 3037,
+    "open_issues_count": 134,
     "forks_count": 382
   },
   {
     "full_name": "grafana/loki",
-    "stargazers_count": 19265,
-    "open_issues_count": 1042,
-    "forks_count": 2773
+    "stargazers_count": 19292,
+    "open_issues_count": 1053,
+    "forks_count": 2775
   },
   {
     "full_name": "keichi/binary-parser",
@@ -49,21 +55,21 @@
   },
   {
     "full_name": "ethereum-optimism/optimism",
-    "stargazers_count": 3935,
-    "open_issues_count": 137,
-    "forks_count": 1644
+    "stargazers_count": 3947,
+    "open_issues_count": 141,
+    "forks_count": 1670
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 73195,
+    "stargazers_count": 73254,
     "open_issues_count": 5,
-    "forks_count": 5312
+    "forks_count": 5314
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 17072,
-    "open_issues_count": 92,
-    "forks_count": 891
+    "stargazers_count": 17230,
+    "open_issues_count": 90,
+    "forks_count": 900
   },
   {
     "full_name": "software-jessies-org/jessies",
@@ -73,8 +79,8 @@
   },
   {
     "full_name": "grpc/grpc-web",
-    "stargazers_count": 7603,
-    "open_issues_count": 214,
+    "stargazers_count": 7608,
+    "open_issues_count": 215,
     "forks_count": 737
   },
   {
@@ -91,9 +97,9 @@
   },
   {
     "full_name": "1kc/razer-macos",
-    "stargazers_count": 1900,
-    "open_issues_count": 426,
-    "forks_count": 206
+    "stargazers_count": 1901,
+    "open_issues_count": 429,
+    "forks_count": 207
   },
   {
     "full_name": "boyter/searchcode-server",
@@ -103,25 +109,25 @@
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 4372,
-    "open_issues_count": 99,
-    "forks_count": 276
+    "stargazers_count": 4379,
+    "open_issues_count": 100,
+    "forks_count": 278
   },
   {
     "full_name": "gnolang/gno",
-    "stargazers_count": 742,
-    "open_issues_count": 208,
-    "forks_count": 282
+    "stargazers_count": 743,
+    "open_issues_count": 217,
+    "forks_count": 284
   },
   {
     "full_name": "berty/go-orbit-db",
-    "stargazers_count": 336,
+    "stargazers_count": 337,
     "open_issues_count": 7,
     "forks_count": 47
   },
   {
     "full_name": "neurodrone/crdt",
-    "stargazers_count": 239,
+    "stargazers_count": 240,
     "open_issues_count": 8,
     "forks_count": 24
   },
@@ -133,8 +139,8 @@
   },
   {
     "full_name": "berty/berty",
-    "stargazers_count": 6782,
-    "open_issues_count": 110,
+    "stargazers_count": 6787,
+    "open_issues_count": 112,
     "forks_count": 328
   },
   {
@@ -145,8 +151,8 @@
   },
   {
     "full_name": "rivo/tview",
-    "stargazers_count": 8388,
-    "open_issues_count": 99,
+    "stargazers_count": 8399,
+    "open_issues_count": 98,
     "forks_count": 485
   },
   {
@@ -170,12 +176,6 @@
   {
     "full_name": "qwlabs/vector-clock",
     "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "aprimadi/vector-clock",
-    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   }
