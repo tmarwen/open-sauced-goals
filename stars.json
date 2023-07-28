@@ -1,21 +1,21 @@
 [
   {
     "full_name": "fullstorydev/grpcurl",
-    "stargazers_count": 8880,
+    "stargazers_count": 8901,
     "open_issues_count": 83,
     "forks_count": 437
   },
   {
     "full_name": "Envoy-VC/blockend-developer-roadmap",
-    "stargazers_count": 336,
+    "stargazers_count": 337,
     "open_issues_count": 0,
     "forks_count": 70
   },
   {
     "full_name": "golang-standards/project-layout",
-    "stargazers_count": 40684,
-    "open_issues_count": 95,
-    "forks_count": 4517
+    "stargazers_count": 40797,
+    "open_issues_count": 96,
+    "forks_count": 4529
   },
   {
     "full_name": "devnw/gvm",
@@ -25,31 +25,31 @@
   },
   {
     "full_name": "golang/mock",
-    "stargazers_count": 9038,
+    "stargazers_count": 9041,
     "open_issues_count": 85,
-    "forks_count": 636
+    "forks_count": 637
   },
   {
     "full_name": "cube-js/cube",
-    "stargazers_count": 15880,
-    "open_issues_count": 907,
-    "forks_count": 1603
+    "stargazers_count": 15899,
+    "open_issues_count": 909,
+    "forks_count": 1605
   },
   {
     "full_name": "grafana/tempo",
-    "stargazers_count": 3105,
-    "open_issues_count": 159,
+    "stargazers_count": 3111,
+    "open_issues_count": 157,
     "forks_count": 389
   },
   {
     "full_name": "grafana/loki",
-    "stargazers_count": 19624,
-    "open_issues_count": 1050,
-    "forks_count": 2842
+    "stargazers_count": 19655,
+    "open_issues_count": 1056,
+    "forks_count": 2843
   },
   {
     "full_name": "keichi/binary-parser",
-    "stargazers_count": 802,
+    "stargazers_count": 803,
     "open_issues_count": 42,
     "forks_count": 126
   },
@@ -61,21 +61,21 @@
   },
   {
     "full_name": "ethereum-optimism/optimism",
-    "stargazers_count": 4267,
-    "open_issues_count": 75,
-    "forks_count": 2189
+    "stargazers_count": 4284,
+    "open_issues_count": 78,
+    "forks_count": 2203
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 75207,
+    "stargazers_count": 75275,
     "open_issues_count": 10,
-    "forks_count": 5609
+    "forks_count": 5610
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 18540,
-    "open_issues_count": 90,
-    "forks_count": 1011
+    "stargazers_count": 18578,
+    "open_issues_count": 81,
+    "forks_count": 1014
   },
   {
     "full_name": "software-jessies-org/jessies",
@@ -85,8 +85,8 @@
   },
   {
     "full_name": "grpc/grpc-web",
-    "stargazers_count": 7731,
-    "open_issues_count": 216,
+    "stargazers_count": 7737,
+    "open_issues_count": 217,
     "forks_count": 744
   },
   {
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "1kc/razer-macos",
-    "stargazers_count": 1963,
+    "stargazers_count": 1965,
     "open_issues_count": 442,
-    "forks_count": 215
+    "forks_count": 216
   },
   {
     "full_name": "boyter/searchcode-server",
@@ -115,14 +115,14 @@
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 4703,
-    "open_issues_count": 119,
-    "forks_count": 308
+    "stargazers_count": 4723,
+    "open_issues_count": 115,
+    "forks_count": 309
   },
   {
     "full_name": "gnolang/gno",
-    "stargazers_count": 754,
-    "open_issues_count": 259,
+    "stargazers_count": 756,
+    "open_issues_count": 255,
     "forks_count": 293
   },
   {
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "rust-crdt/rust-crdt",
-    "stargazers_count": 1146,
+    "stargazers_count": 1147,
     "open_issues_count": 18,
     "forks_count": 51
   },
   {
     "full_name": "berty/berty",
-    "stargazers_count": 6849,
-    "open_issues_count": 105,
-    "forks_count": 334
+    "stargazers_count": 6855,
+    "open_issues_count": 101,
+    "forks_count": 335
   },
   {
     "full_name": "automerge/automerge-classic",
@@ -157,19 +157,19 @@
   },
   {
     "full_name": "rivo/tview",
-    "stargazers_count": 8553,
+    "stargazers_count": 8571,
     "open_issues_count": 94,
     "forks_count": 492
   },
   {
     "full_name": "quarkiverse/quarkus-renarde",
     "stargazers_count": 58,
-    "open_issues_count": 30,
+    "open_issues_count": 31,
     "forks_count": 11
   },
   {
     "full_name": "DistributedClocks/GoVector",
-    "stargazers_count": 173,
+    "stargazers_count": 172,
     "open_issues_count": 15,
     "forks_count": 33
   },
