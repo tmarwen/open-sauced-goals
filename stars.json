@@ -1,9 +1,9 @@
 [
   {
     "full_name": "fullstorydev/grpcurl",
-    "stargazers_count": 9196,
+    "stargazers_count": 9209,
     "open_issues_count": 83,
-    "forks_count": 447
+    "forks_count": 448
   },
   {
     "full_name": "Envoy-VC/blockend-developer-roadmap",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "golang-standards/project-layout",
-    "stargazers_count": 41867,
-    "open_issues_count": 92,
-    "forks_count": 4645
+    "stargazers_count": 41955,
+    "open_issues_count": 93,
+    "forks_count": 4650
   },
   {
     "full_name": "devnw/gvm",
@@ -27,25 +27,25 @@
     "full_name": "golang/mock",
     "stargazers_count": 9091,
     "open_issues_count": 85,
-    "forks_count": 687
+    "forks_count": 688
   },
   {
     "full_name": "cube-js/cube",
-    "stargazers_count": 16206,
-    "open_issues_count": 873,
-    "forks_count": 1621
+    "stargazers_count": 16214,
+    "open_issues_count": 879,
+    "forks_count": 1623
   },
   {
     "full_name": "grafana/tempo",
-    "stargazers_count": 3211,
+    "stargazers_count": 3219,
     "open_issues_count": 166,
-    "forks_count": 410
+    "forks_count": 416
   },
   {
     "full_name": "grafana/loki",
-    "stargazers_count": 20105,
-    "open_issues_count": 1178,
-    "forks_count": 2950
+    "stargazers_count": 20138,
+    "open_issues_count": 1184,
+    "forks_count": 2957
   },
   {
     "full_name": "keichi/binary-parser",
@@ -61,21 +61,21 @@
   },
   {
     "full_name": "ethereum-optimism/optimism",
-    "stargazers_count": 4476,
-    "open_issues_count": 115,
-    "forks_count": 2414
+    "stargazers_count": 4489,
+    "open_issues_count": 104,
+    "forks_count": 2422
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 76443,
+    "stargazers_count": 76521,
     "open_issues_count": 13,
-    "forks_count": 5653
+    "forks_count": 5655
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 19251,
-    "open_issues_count": 89,
-    "forks_count": 1086
+    "stargazers_count": 19351,
+    "open_issues_count": 90,
+    "forks_count": 1091
   },
   {
     "full_name": "software-jessies-org/jessies",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "grpc/grpc-web",
-    "stargazers_count": 7846,
-    "open_issues_count": 222,
-    "forks_count": 747
+    "stargazers_count": 7853,
+    "open_issues_count": 223,
+    "forks_count": 746
   },
   {
     "full_name": "redhat-helloworld-msa/helloworld-msa",
@@ -103,31 +103,31 @@
   },
   {
     "full_name": "1kc/razer-macos",
-    "stargazers_count": 2023,
-    "open_issues_count": 451,
-    "forks_count": 220
+    "stargazers_count": 2025,
+    "open_issues_count": 452,
+    "forks_count": 221
   },
   {
     "full_name": "boyter/searchcode-server",
     "stargazers_count": 356,
-    "open_issues_count": 59,
+    "open_issues_count": 60,
     "forks_count": 95
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 4876,
-    "open_issues_count": 129,
-    "forks_count": 321
+    "stargazers_count": 4890,
+    "open_issues_count": 133,
+    "forks_count": 323
   },
   {
     "full_name": "gnolang/gno",
-    "stargazers_count": 768,
-    "open_issues_count": 325,
+    "stargazers_count": 769,
+    "open_issues_count": 330,
     "forks_count": 299
   },
   {
     "full_name": "berty/go-orbit-db",
-    "stargazers_count": 354,
+    "stargazers_count": 355,
     "open_issues_count": 8,
     "forks_count": 50
   },
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "rust-crdt/rust-crdt",
-    "stargazers_count": 1176,
+    "stargazers_count": 1179,
     "open_issues_count": 17,
     "forks_count": 51
   },
   {
     "full_name": "berty/berty",
-    "stargazers_count": 6951,
+    "stargazers_count": 6959,
     "open_issues_count": 99,
-    "forks_count": 342
+    "forks_count": 344
   },
   {
     "full_name": "automerge/automerge-classic",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "rivo/tview",
-    "stargazers_count": 8798,
-    "open_issues_count": 80,
-    "forks_count": 497
+    "stargazers_count": 8813,
+    "open_issues_count": 79,
+    "forks_count": 498
   },
   {
     "full_name": "quarkiverse/quarkus-renarde",
