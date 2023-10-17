@@ -1,51 +1,51 @@
 [
   {
     "full_name": "traefik/traefik",
-    "stargazers_count": 44934,
-    "open_issues_count": 640,
+    "stargazers_count": 45014,
+    "open_issues_count": 643,
     "forks_count": 4734
   },
   {
     "full_name": "caddyserver/caddy",
-    "stargazers_count": 50098,
-    "open_issues_count": 133,
-    "forks_count": 3828
+    "stargazers_count": 50132,
+    "open_issues_count": 131,
+    "forks_count": 3834
   },
   {
     "full_name": "micro/micro",
-    "stargazers_count": 11889,
+    "stargazers_count": 11888,
     "open_issues_count": 43,
     "forks_count": 1091
   },
   {
     "full_name": "spf13/spf13-vim",
-    "stargazers_count": 15515,
+    "stargazers_count": 15520,
     "open_issues_count": 350,
     "forks_count": 3704
   },
   {
     "full_name": "gofiber/recipes",
-    "stargazers_count": 2536,
+    "stargazers_count": 2540,
     "open_issues_count": 16,
-    "forks_count": 418
+    "forks_count": 419
   },
   {
     "full_name": "open-telemetry/semantic-conventions",
     "stargazers_count": 109,
-    "open_issues_count": 157,
-    "forks_count": 70
+    "open_issues_count": 158,
+    "forks_count": 72
   },
   {
     "full_name": "open-telemetry/opentelemetry-go",
-    "stargazers_count": 4275,
-    "open_issues_count": 192,
-    "forks_count": 950
+    "stargazers_count": 4284,
+    "open_issues_count": 194,
+    "forks_count": 952
   },
   {
     "full_name": "dapr/docs",
     "stargazers_count": 982,
-    "open_issues_count": 133,
-    "forks_count": 663
+    "open_issues_count": 132,
+    "forks_count": 666
   },
   {
     "full_name": "mathaou/termdbms",
@@ -61,21 +61,21 @@
   },
   {
     "full_name": "fullstorydev/grpcurl",
-    "stargazers_count": 9271,
-    "open_issues_count": 84,
+    "stargazers_count": 9282,
+    "open_issues_count": 83,
     "forks_count": 452
   },
   {
     "full_name": "Envoy-VC/blockend-developer-roadmap",
-    "stargazers_count": 338,
+    "stargazers_count": 339,
     "open_issues_count": 0,
     "forks_count": 71
   },
   {
     "full_name": "golang-standards/project-layout",
-    "stargazers_count": 42327,
+    "stargazers_count": 42407,
     "open_issues_count": 93,
-    "forks_count": 4684
+    "forks_count": 4689
   },
   {
     "full_name": "devnw/gvm",
@@ -85,27 +85,27 @@
   },
   {
     "full_name": "golang/mock",
-    "stargazers_count": 9101,
+    "stargazers_count": 9105,
     "open_issues_count": 85,
-    "forks_count": 699
+    "forks_count": 702
   },
   {
     "full_name": "cube-js/cube",
-    "stargazers_count": 16285,
-    "open_issues_count": 895,
+    "stargazers_count": 16309,
+    "open_issues_count": 913,
     "forks_count": 1625
   },
   {
     "full_name": "grafana/tempo",
-    "stargazers_count": 3271,
-    "open_issues_count": 159,
-    "forks_count": 421
+    "stargazers_count": 3273,
+    "open_issues_count": 154,
+    "forks_count": 424
   },
   {
     "full_name": "grafana/loki",
-    "stargazers_count": 20291,
-    "open_issues_count": 1236,
-    "forks_count": 2978
+    "stargazers_count": 20314,
+    "open_issues_count": 1246,
+    "forks_count": 2980
   },
   {
     "full_name": "keichi/binary-parser",
@@ -121,21 +121,21 @@
   },
   {
     "full_name": "ethereum-optimism/optimism",
-    "stargazers_count": 4548,
-    "open_issues_count": 109,
-    "forks_count": 2493
+    "stargazers_count": 4556,
+    "open_issues_count": 114,
+    "forks_count": 2501
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 76965,
+    "stargazers_count": 77060,
     "open_issues_count": 15,
-    "forks_count": 5679
+    "forks_count": 5685
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 20969,
-    "open_issues_count": 111,
-    "forks_count": 1170
+    "stargazers_count": 21260,
+    "open_issues_count": 108,
+    "forks_count": 1184
   },
   {
     "full_name": "software-jessies-org/jessies",
@@ -145,8 +145,8 @@
   },
   {
     "full_name": "grpc/grpc-web",
-    "stargazers_count": 7897,
-    "open_issues_count": 226,
+    "stargazers_count": 7905,
+    "open_issues_count": 224,
     "forks_count": 748
   },
   {
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "1kc/razer-macos",
-    "stargazers_count": 2039,
+    "stargazers_count": 2045,
     "open_issues_count": 454,
     "forks_count": 221
   },
   {
     "full_name": "boyter/searchcode-server",
     "stargazers_count": 356,
-    "open_issues_count": 61,
+    "open_issues_count": 62,
     "forks_count": 95
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 4956,
+    "stargazers_count": 4961,
     "open_issues_count": 134,
     "forks_count": 330
   }
