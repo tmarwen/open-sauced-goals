@@ -7,26 +7,26 @@
   },
   {
     "full_name": "graphql-java/graphql-java",
-    "stargazers_count": 6081,
-    "open_issues_count": 27,
-    "forks_count": 1111
+    "stargazers_count": 6080,
+    "open_issues_count": 24,
+    "forks_count": 1112
   },
   {
     "full_name": "quarkusio/quarkus",
-    "stargazers_count": 13286,
-    "open_issues_count": 2638,
-    "forks_count": 2537
+    "stargazers_count": 13304,
+    "open_issues_count": 2666,
+    "forks_count": 2540
   },
   {
     "full_name": "apache/camel",
-    "stargazers_count": 5378,
-    "open_issues_count": 8,
-    "forks_count": 4907
+    "stargazers_count": 5383,
+    "open_issues_count": 12,
+    "forks_count": 4909
   },
   {
     "full_name": "apache/camel-examples",
-    "stargazers_count": 384,
+    "stargazers_count": 386,
     "open_issues_count": 0,
-    "forks_count": 360
+    "forks_count": 361
   }
 ]
