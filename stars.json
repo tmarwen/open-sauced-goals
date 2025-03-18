@@ -3,19 +3,19 @@
     "full_name": "thirdweb-dev/insight",
     "stargazers_count": 32,
     "open_issues_count": 5,
-    "forks_count": 10
+    "forks_count": 12
   },
   {
     "full_name": "langchain-ai/langchain",
-    "stargazers_count": 103204,
-    "open_issues_count": 415,
-    "forks_count": 16708
+    "stargazers_count": 103560,
+    "open_issues_count": 408,
+    "forks_count": 16753
   },
   {
     "full_name": "trufflesuite/ganache",
-    "stargazers_count": 2633,
+    "stargazers_count": 2632,
     "open_issues_count": 412,
-    "forks_count": 685
+    "forks_count": 686
   },
   {
     "full_name": "FiloSottile/keygen",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "actions/setup-go",
-    "stargazers_count": 1456,
+    "stargazers_count": 1458,
     "open_issues_count": 64,
-    "forks_count": 562
+    "forks_count": 561
   },
   {
     "full_name": "etherparty/explorer",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "blockscout/blockscout",
-    "stargazers_count": 3858,
-    "open_issues_count": 415,
-    "forks_count": 2623
+    "stargazers_count": 3863,
+    "open_issues_count": 421,
+    "forks_count": 2627
   },
   {
     "full_name": "pascaldekloe/etherstream",
@@ -55,73 +55,73 @@
   },
   {
     "full_name": "air-verse/air",
-    "stargazers_count": 19653,
+    "stargazers_count": 19707,
     "open_issues_count": 161,
-    "forks_count": 846
+    "forks_count": 847
   },
   {
     "full_name": "eko/monday",
-    "stargazers_count": 1344,
+    "stargazers_count": 1345,
     "open_issues_count": 7,
     "forks_count": 43
   },
   {
     "full_name": "ethereum/go-ethereum",
-    "stargazers_count": 48576,
-    "open_issues_count": 324,
-    "forks_count": 20666
+    "stargazers_count": 48590,
+    "open_issues_count": 319,
+    "forks_count": 20673
   },
   {
     "full_name": "prysmaticlabs/prysm",
-    "stargazers_count": 3543,
-    "open_issues_count": 329,
+    "stargazers_count": 3546,
+    "open_issues_count": 334,
     "forks_count": 1090
   },
   {
     "full_name": "FuelLabs/fuel-core",
-    "stargazers_count": 57755,
-    "open_issues_count": 173,
-    "forks_count": 2835
+    "stargazers_count": 57743,
+    "open_issues_count": 160,
+    "forks_count": 2836
   },
   {
     "full_name": "foundry-rs/foundry",
-    "stargazers_count": 8691,
-    "open_issues_count": 520,
-    "forks_count": 1883
+    "stargazers_count": 8710,
+    "open_issues_count": 523,
+    "forks_count": 1893
   },
   {
     "full_name": "ethereum-lists/chains",
-    "stargazers_count": 9459,
-    "open_issues_count": 65,
-    "forks_count": 7062
+    "stargazers_count": 9491,
+    "open_issues_count": 59,
+    "forks_count": 7074
   },
   {
     "full_name": "charmbracelet/bubbletea",
-    "stargazers_count": 30038,
-    "open_issues_count": 111,
-    "forks_count": 864
+    "stargazers_count": 30129,
+    "open_issues_count": 113,
+    "forks_count": 865
   },
   {
     "full_name": "kelseyhightower/envconfig",
-    "stargazers_count": 5163,
+    "stargazers_count": 5166,
     "open_issues_count": 54,
     "forks_count": 386
   },
   {
     "full_name": "traefik/traefik",
-    "stargazers_count": 53645,
-    "open_issues_count": 640,
-    "forks_count": 5258
+    "stargazers_count": 53690,
+    "open_issues_count": 638,
+    "forks_count": 5264
   },
   {
     "full_name": "caddyserver/caddy",
-    "stargazers_count": 62227,
-    "open_issues_count": 164,
-    "forks_count": 4196
+    "stargazers_count": 62298,
+    "open_issues_count": 169,
+    "forks_count": 4200
   },
   {
     "full_name": "micro/micro",
-    "stargazers_count": 12218,
+    "stargazers_count": 12224,
     "open_issues_count": 1,
     "forks_count": 1057
   },
@@ -129,35 +129,35 @@
     "full_name": "spf13/spf13-vim",
     "stargazers_count": 15563,
     "open_issues_count": 351,
-    "forks_count": 3614
+    "forks_count": 3613
   },
   {
     "full_name": "gofiber/recipes",
-    "stargazers_count": 3256,
+    "stargazers_count": 3261,
     "open_issues_count": 19,
-    "forks_count": 472
+    "forks_count": 476
   },
   {
     "full_name": "open-telemetry/semantic-conventions",
-    "stargazers_count": 332,
-    "open_issues_count": 521,
-    "forks_count": 208
+    "stargazers_count": 337,
+    "open_issues_count": 526,
+    "forks_count": 210
   },
   {
     "full_name": "open-telemetry/opentelemetry-go",
-    "stargazers_count": 5576,
-    "open_issues_count": 194,
-    "forks_count": 1123
+    "stargazers_count": 5587,
+    "open_issues_count": 193,
+    "forks_count": 1125
   },
   {
     "full_name": "dapr/docs",
     "stargazers_count": 998,
-    "open_issues_count": 117,
-    "forks_count": 735
+    "open_issues_count": 122,
+    "forks_count": 736
   },
   {
     "full_name": "mathaou/termdbms",
-    "stargazers_count": 1735,
+    "stargazers_count": 1736,
     "open_issues_count": 4,
     "forks_count": 35
   },
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "fullstorydev/grpcurl",
-    "stargazers_count": 11351,
+    "stargazers_count": 11360,
     "open_issues_count": 109,
     "forks_count": 523
   },
