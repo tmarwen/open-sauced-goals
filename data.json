@@ -1,32 +1,32 @@
 [
   {
     "full_name": "rsocket/rsocket-java",
-    "stargazers_count": 2383,
+    "stargazers_count": 2384,
     "open_issues_count": 57,
     "forks_count": 357
   },
   {
     "full_name": "graphql-java/graphql-java",
     "stargazers_count": 6196,
-    "open_issues_count": 44,
+    "open_issues_count": 45,
     "forks_count": 1144
   },
   {
     "full_name": "quarkusio/quarkus",
-    "stargazers_count": 14951,
-    "open_issues_count": 2634,
-    "forks_count": 2951
+    "stargazers_count": 14958,
+    "open_issues_count": 2631,
+    "forks_count": 2954
   },
   {
     "full_name": "apache/camel",
-    "stargazers_count": 5943,
-    "open_issues_count": 14,
-    "forks_count": 5063
+    "stargazers_count": 5948,
+    "open_issues_count": 15,
+    "forks_count": 5065
   },
   {
     "full_name": "apache/camel-examples",
-    "stargazers_count": 454,
+    "stargazers_count": 455,
     "open_issues_count": 0,
-    "forks_count": 381
+    "forks_count": 382
   }
 ]
