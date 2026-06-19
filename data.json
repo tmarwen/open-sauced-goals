@@ -13,20 +13,20 @@
   },
   {
     "full_name": "quarkusio/quarkus",
-    "stargazers_count": 15724,
-    "open_issues_count": 2745,
-    "forks_count": 3208
+    "stargazers_count": 15723,
+    "open_issues_count": 2747,
+    "forks_count": 3207
   },
   {
     "full_name": "apache/camel",
-    "stargazers_count": 6236,
-    "open_issues_count": 25,
-    "forks_count": 5129
+    "stargazers_count": 6240,
+    "open_issues_count": 30,
+    "forks_count": 5131
   },
   {
     "full_name": "apache/camel-examples",
-    "stargazers_count": 475,
-    "open_issues_count": 3,
+    "stargazers_count": 476,
+    "open_issues_count": 4,
     "forks_count": 381
   }
 ]
